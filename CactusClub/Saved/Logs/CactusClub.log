@@ -3711,3 +3711,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.04.29-03.32.57:035][248]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{c77ad65e-a2b7-4233-a858-edca49da27fa} was removed. Shutting down audio device.
 [2019.04.29-03.32.57:035][248]LogInit: XAudio2 using 'Auriculares (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
 [2019.04.29-03.39.12:432][368]LogInit: XAudio2 using 'Altavoces (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.29-04.54.37:420][867]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.29-05.21.09:609][857]LogSlate: FSceneViewport::OnFocusLost() reason 0
