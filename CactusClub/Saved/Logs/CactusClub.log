@@ -3027,3 +3027,342 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.05.01-07.18.39:000][608]LogSavePackage: Moving '../../../../../01/CactusClub/Saved/DefaultCF05C72846B90427F4AB6694C9C2D00C.tmp' to '../../../../../01/CactusClub/Content/Developers/miki/Default.umap'
 [2019.05.01-07.18.39:016][608]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developers/miki/Default_BuiltData" FILE="../../../../../01/CactusClub/Content/Developers/miki/Default_BuiltData.uasset" SILENT=true
 [2019.05.01-07.18.39:235][608]LogSavePackage: Moving '../../../../../01/CactusClub/Saved/Default_BuiltData04AE4E554AE722EFEE4544991BEE5367.tmp' to '../../../../../01/CactusClub/Content/Developers/miki/Default_BuiltData.uasset'
+[2019.05.01-07.32.11:449][141]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.01-07.32.13:139][290]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.01-07.32.13:146][290]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Developers/miki/Default.Default:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/miki/Default.Default:PersistentLevel.Default' with GeneratedClass '/Game/Developers/miki/Default.Default_C' with ClassGeneratedBy '/Game/Developers/miki/Default.Default:PersistentLevel.Default'
+[2019.05.01-07.32.13:146][290]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.01-07.32.13:146][290]LogHMD: Initializing OVRPlugin session
+[2019.05.01-07.32.13:170][290]PIE: New page: PIE session: Default (Apr 30, 2019, 5:32:13 PM)
+[2019.05.01-07.32.13:170][290]LogPlayLevel: Creating play world package: /Game/Developers/miki/UEDPIE_0_Default
+[2019.05.01-07.32.13:179][290]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009197s)
+[2019.05.01-07.32.13:180][290]LogAIModule: Creating AISystem for world Default
+[2019.05.01-07.32.13:180][290]LogPlayLevel: PIE: World Init took: (0.000521s)
+[2019.05.01-07.32.13:180][290]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Developers/miki/Default.Default to /Game/Developers/miki/UEDPIE_0_Default.Default (0.009865s)
+[2019.05.01-07.32.13:202][290]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2019.05.01-07.32.13:209][290]LogInit: XAudio2 using 'Altavoces (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.01-07.32.13:217][290]LogInit: FAudioDevice initialized.
+[2019.05.01-07.32.13:240][290]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.05.01-07.32.13:243][290]LogWorld: Bringing World /Game/Developers/miki/UEDPIE_0_Default.Default up for play (max tick rate 0) at 2019.05.01-00.32.13
+[2019.05.01-07.32.13:243][290]LogWorld: Bringing up level for play took: 0.002762
+[2019.05.01-07.32.13:256][290]PIE: Play in editor start time for /Game/Developers/miki/UEDPIE_0_Default -0.091
+[2019.05.01-07.32.13:256][290]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Developers/miki/Default.Default:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/miki/Default.Default:PersistentLevel.Default' with GeneratedClass '/Game/Developers/miki/Default.Default_C' with ClassGeneratedBy '/Game/Developers/miki/Default.Default:PersistentLevel.Default'
+[2019.05.01-07.33.03:964][220]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Developers/miki/Default.Default:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/miki/Default.Default:PersistentLevel.Default' with GeneratedClass '/Game/Developers/miki/Default.Default_C' with ClassGeneratedBy '/Game/Developers/miki/Default.Default:PersistentLevel.Default'
+[2019.05.01-07.33.03:972][220]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.01-07.33.04:001][220]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.01-07.33.04:001][220]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Developers/miki/Default.Default:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/miki/Default.Default:PersistentLevel.Default' with GeneratedClass '/Game/Developers/miki/Default.Default_C' with ClassGeneratedBy '/Game/Developers/miki/Default.Default:PersistentLevel.Default'
+[2019.05.01-07.33.04:026][220]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.01-07.33.04:030][220]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2019.05.01-07.33.04:086][222]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2019.05.01-07.33.08:843][677]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-07.33.28:185][313]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.01-07.33.31:462][568]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-07.33.45:311][664]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-07.33.45:384][670]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.01-07.33.45:393][670]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Developers/miki/Default.Default:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/miki/Default.Default:PersistentLevel.Default' with GeneratedClass '/Game/Developers/miki/Default.Default_C' with ClassGeneratedBy '/Game/Developers/miki/Default.Default:PersistentLevel.Default'
+[2019.05.01-07.33.45:393][670]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.01-07.33.45:393][670]LogHMD: Initializing OVRPlugin session
+[2019.05.01-07.33.45:416][670]PIE: New page: PIE session: Default (Apr 30, 2019, 5:33:45 PM)
+[2019.05.01-07.33.45:416][670]LogPlayLevel: Creating play world package: /Game/Developers/miki/UEDPIE_0_Default
+[2019.05.01-07.33.45:431][670]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015410s)
+[2019.05.01-07.33.45:432][670]LogAIModule: Creating AISystem for world Default
+[2019.05.01-07.33.45:432][670]LogPlayLevel: PIE: World Init took: (0.000756s)
+[2019.05.01-07.33.45:432][670]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Developers/miki/Default.Default to /Game/Developers/miki/UEDPIE_0_Default.Default (0.016388s)
+[2019.05.01-07.33.45:457][670]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2019.05.01-07.33.45:466][670]LogInit: XAudio2 using 'Altavoces (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.01-07.33.45:476][670]LogInit: FAudioDevice initialized.
+[2019.05.01-07.33.45:500][670]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.05.01-07.33.45:503][670]LogWorld: Bringing World /Game/Developers/miki/UEDPIE_0_Default.Default up for play (max tick rate 0) at 2019.05.01-00.33.45
+[2019.05.01-07.33.45:503][670]LogWorld: Bringing up level for play took: 0.002751
+[2019.05.01-07.33.45:516][670]PIE: Play in editor start time for /Game/Developers/miki/UEDPIE_0_Default 0.168
+[2019.05.01-07.33.45:516][670]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Developers/miki/Default.Default:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/miki/Default.Default:PersistentLevel.Default' with GeneratedClass '/Game/Developers/miki/Default.Default_C' with ClassGeneratedBy '/Game/Developers/miki/Default.Default:PersistentLevel.Default'
+[2019.05.01-07.34.09:604][935]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Developers/miki/Default.Default:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/miki/Default.Default:PersistentLevel.Default' with GeneratedClass '/Game/Developers/miki/Default.Default_C' with ClassGeneratedBy '/Game/Developers/miki/Default.Default:PersistentLevel.Default'
+[2019.05.01-07.34.09:612][935]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.01-07.34.09:637][935]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.01-07.34.09:638][935]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Developers/miki/Default.Default:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/miki/Default.Default:PersistentLevel.Default' with GeneratedClass '/Game/Developers/miki/Default.Default_C' with ClassGeneratedBy '/Game/Developers/miki/Default.Default:PersistentLevel.Default'
+[2019.05.01-07.34.09:662][935]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.01-07.34.09:665][935]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2019.05.01-07.34.09:724][937]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2019.05.01-07.34.12:968][247]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.01-07.34.12:968][247]Can't find target actor or component.
+[2019.05.01-07.34.14:072][353]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube67)
+[2019.05.01-07.34.14:655][399]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 3
+[2019.05.01-07.34.17:521][628]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-07.34.17:582][633]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.01-07.34.17:589][633]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Developers/miki/Default.Default:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/miki/Default.Default:PersistentLevel.Default' with GeneratedClass '/Game/Developers/miki/Default.Default_C' with ClassGeneratedBy '/Game/Developers/miki/Default.Default:PersistentLevel.Default'
+[2019.05.01-07.34.17:589][633]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.01-07.34.17:589][633]LogHMD: Initializing OVRPlugin session
+[2019.05.01-07.34.17:609][633]PIE: New page: PIE session: Default (Apr 30, 2019, 5:34:17 PM)
+[2019.05.01-07.34.17:610][633]LogPlayLevel: Creating play world package: /Game/Developers/miki/UEDPIE_0_Default
+[2019.05.01-07.34.17:620][633]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010208s)
+[2019.05.01-07.34.17:620][633]LogAIModule: Creating AISystem for world Default
+[2019.05.01-07.34.17:620][633]LogPlayLevel: PIE: World Init took: (0.000503s)
+[2019.05.01-07.34.17:621][633]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Developers/miki/Default.Default to /Game/Developers/miki/UEDPIE_0_Default.Default (0.010959s)
+[2019.05.01-07.34.17:645][633]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2019.05.01-07.34.17:646][633]LogSlate: Window 'Color Picker' being destroyed
+[2019.05.01-07.34.17:658][633]LogInit: XAudio2 using 'Altavoces (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.01-07.34.17:666][633]LogInit: FAudioDevice initialized.
+[2019.05.01-07.34.17:692][633]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.05.01-07.34.17:695][633]LogWorld: Bringing World /Game/Developers/miki/UEDPIE_0_Default.Default up for play (max tick rate 0) at 2019.05.01-00.34.17
+[2019.05.01-07.34.17:695][633]LogWorld: Bringing up level for play took: 0.003211
+[2019.05.01-07.34.17:708][633]PIE: Play in editor start time for /Game/Developers/miki/UEDPIE_0_Default 0.359
+[2019.05.01-07.34.17:708][633]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Developers/miki/Default.Default:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/miki/Default.Default:PersistentLevel.Default' with GeneratedClass '/Game/Developers/miki/Default.Default_C' with ClassGeneratedBy '/Game/Developers/miki/Default.Default:PersistentLevel.Default'
+[2019.05.01-07.34.42:382][ 35]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Developers/miki/Default.Default:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/miki/Default.Default:PersistentLevel.Default' with GeneratedClass '/Game/Developers/miki/Default.Default_C' with ClassGeneratedBy '/Game/Developers/miki/Default.Default:PersistentLevel.Default'
+[2019.05.01-07.34.42:391][ 35]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.01-07.34.42:418][ 35]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.01-07.34.42:418][ 35]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Developers/miki/Default.Default:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/miki/Default.Default:PersistentLevel.Default' with GeneratedClass '/Game/Developers/miki/Default.Default_C' with ClassGeneratedBy '/Game/Developers/miki/Default.Default:PersistentLevel.Default'
+[2019.05.01-07.34.42:444][ 35]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.01-07.34.42:447][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2019.05.01-07.34.42:500][ 37]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2019.05.01-07.34.43:602][143]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-07.34.43:682][149]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developers/miki/Default" FILE="../../../../../01/CactusClub/Content/Developers/miki/Default.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.01-07.34.43:705][149]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2019.05.01-07.34.43:921][149]LogSavePackage: Moving '../../../../../01/CactusClub/Saved/Default6FB4E16A4B9A02C8E8E2038E12BF64E0.tmp' to '../../../../../01/CactusClub/Content/Developers/miki/Default.umap'
+[2019.05.01-07.34.43:938][149]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developers/miki/Default_BuiltData" FILE="../../../../../01/CactusClub/Content/Developers/miki/Default_BuiltData.uasset" SILENT=true
+[2019.05.01-07.34.44:165][149]LogSavePackage: Moving '../../../../../01/CactusClub/Saved/Default_BuiltDataDD152F1A48EC09A20C953FB734B5C6B1.tmp' to '../../../../../01/CactusClub/Content/Developers/miki/Default_BuiltData.uasset'
+[2019.05.01-07.34.46:633][395]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.01-07.34.47:448][454]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.01-07.34.47:583][454]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0003 seconds. Added 2 classes and 3 folders.
+[2019.05.01-07.34.58:889][271]LogSlate: Window 'New Level' being destroyed
+[2019.05.01-07.34.58:989][271]LogPackageName: SearchForPackageOnDisk took   0.096s, but failed to resolve .
+[2019.05.01-07.34.58:989][271]LogUObjectGlobals: Warning: LoadPackage can't find package .
+[2019.05.01-07.34.59:060][271]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.01-07.35.03:715][271]LogSlate: Window 'Save Level As' being destroyed
+[2019.05.01-07.35.04:357][328]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-07.35.10:249][706]LogSlate: Window 'New Level' being destroyed
+[2019.05.01-07.35.10:343][706]LogPackageName: SearchForPackageOnDisk took   0.090s, but failed to resolve .
+[2019.05.01-07.35.10:343][706]LogUObjectGlobals: Warning: LoadPackage can't find package .
+[2019.05.01-07.35.10:354][706]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.01-07.35.27:741][706]LogSlate: Window 'Save Level As' being destroyed
+[2019.05.01-07.35.27:754][706]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.01-07.35.27:791][706]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2019.05.01-07.35.27:793][706]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developers/Shinya/ShinyaSL" FILE="../../../../../01/CactusClub/Content/Developers/Shinya/ShinyaSL.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.01-07.35.27:817][706]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2019.05.01-07.35.27:903][706]LogSavePackage: Moving '../../../../../01/CactusClub/Saved/ShinyaSL5D0B3FD7425CC990548EE1B4EB2F177D.tmp' to '../../../../../01/CactusClub/Content/Developers/Shinya/ShinyaSL.umap'
+[2019.05.01-07.35.27:910][706]LogFileHelpers: Saving map 'ShinyaSL' took 0.161
+[2019.05.01-07.35.27:915][706]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.01-07.35.28:972][796]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-07.35.38:158][461]LogSlate: Window 'New Level' being destroyed
+[2019.05.01-07.35.38:253][461]LogPackageName: SearchForPackageOnDisk took   0.091s, but failed to resolve .
+[2019.05.01-07.35.38:253][461]LogUObjectGlobals: Warning: LoadPackage can't find package .
+[2019.05.01-07.35.38:263][461]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.01-07.35.45:480][461]LogSlate: Window 'Save Level As' being destroyed
+[2019.05.01-07.35.45:496][461]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.01-07.35.45:548][461]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2019.05.01-07.35.45:550][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developers/miki/MikiSL" FILE="../../../../../01/CactusClub/Content/Developers/miki/MikiSL.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.01-07.35.45:578][461]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2019.05.01-07.35.45:662][461]LogSavePackage: Moving '../../../../../01/CactusClub/Saved/MikiSL78B4F3C347B8E8D805BF159780491CF4.tmp' to '../../../../../01/CactusClub/Content/Developers/miki/MikiSL.umap'
+[2019.05.01-07.35.45:669][461]LogFileHelpers: Saving map 'MikiSL' took 0.178
+[2019.05.01-07.35.45:674][461]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.01-07.35.47:012][568]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.01-07.35.50:305][733]LogSlate: Window 'New Level' being destroyed
+[2019.05.01-07.35.52:662][949]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube60)
+[2019.05.01-07.35.53:177][987]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.01-07.36.05:245][788]LogSlate: Window 'New Level' being destroyed
+[2019.05.01-07.36.05:340][788]LogPackageName: SearchForPackageOnDisk took   0.091s, but failed to resolve .
+[2019.05.01-07.36.05:340][788]LogUObjectGlobals: Warning: LoadPackage can't find package .
+[2019.05.01-07.36.05:352][788]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.01-07.36.11:775][788]LogSlate: Window 'Save Level As' being destroyed
+[2019.05.01-07.36.11:779][788]LogSlate: FSceneViewport::OnFocusLost() reason 3
+[2019.05.01-07.36.11:828][788]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2019.05.01-07.36.11:830][788]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developers/Adam/AdamSL" FILE="../../../../../01/CactusClub/Content/Developers/Adam/AdamSL.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.01-07.36.11:854][788]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2019.05.01-07.36.11:935][788]LogSavePackage: Moving '../../../../../01/CactusClub/Saved/AdamSL9D6EC16D41F4D57730C4DB9C9FC1EF3C.tmp' to '../../../../../01/CactusClub/Content/Developers/Adam/AdamSL.umap'
+[2019.05.01-07.36.11:942][788]LogFileHelpers: Saving map 'AdamSL' took 0.156
+[2019.05.01-07.36.11:947][788]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.01-07.36.13:329][894]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-07.36.14:401][967]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (46.419 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.01-07.36.14:889][  4]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developers/Adam/AdamSL" FILE="../../../../../01/CactusClub/Content/Developers/Adam/AdamSL.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.01-07.36.14:915][  4]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2019.05.01-07.36.14:919][  4]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: AdamSL, Actor: /Game/Developers/Adam/AdamSL.AdamSL:PersistentLevel.REINST_AdamSL_C_0
+[2019.05.01-07.36.15:001][  4]LogSavePackage: Moving '../../../../../01/CactusClub/Saved/AdamSLF9FC928540F10AFB4E9EFC84C2BB93E5.tmp' to '../../../../../01/CactusClub/Content/Developers/Adam/AdamSL.umap'
+[2019.05.01-07.36.18:270][208]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-07.36.28:053][824]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube67)
+[2019.05.01-07.36.36:379][440]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-07.36.36:515][448]LogActorFactory: Actor Factory created Plane
+[2019.05.01-07.36.37:511][501]LogActorFactory: Actor Factory created Plane
+[2019.05.01-07.36.38:930][611]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.01-07.36.58:070][849]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.01-07.37.02:666][170]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.01-07.37.04:194][282]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-07.37.04:252][287]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.01-07.37.04:260][287]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Developers/miki/Default.Default:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/miki/Default.Default:PersistentLevel.Default' with GeneratedClass '/Game/Developers/miki/Default.Default_C' with ClassGeneratedBy '/Game/Developers/miki/Default.Default:PersistentLevel.Default'
+[2019.05.01-07.37.04:260][287]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Developers/Shinya/ShinyaSL.ShinyaSL:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/Shinya/ShinyaSL.ShinyaSL:PersistentLevel.ShinyaSL' with GeneratedClass '/Game/Developers/Shinya/ShinyaSL.ShinyaSL_C' with ClassGeneratedBy '/Game/Developers/Shinya/ShinyaSL.ShinyaSL:PersistentLevel.ShinyaSL'
+[2019.05.01-07.37.04:260][287]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Developers/miki/MikiSL.MikiSL:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/miki/MikiSL.MikiSL:PersistentLevel.MikiSL' with GeneratedClass '/Game/Developers/miki/MikiSL.MikiSL_C' with ClassGeneratedBy '/Game/Developers/miki/MikiSL.MikiSL:PersistentLevel.MikiSL'
+[2019.05.01-07.37.04:260][287]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Developers/Adam/AdamSL.AdamSL:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/Adam/AdamSL.AdamSL:PersistentLevel.AdamSL' with GeneratedClass '/Game/Developers/Adam/AdamSL.AdamSL_C' with ClassGeneratedBy '/Game/Developers/Adam/AdamSL.AdamSL:PersistentLevel.AdamSL'
+[2019.05.01-07.37.04:260][287]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.01-07.37.04:260][287]LogHMD: Initializing OVRPlugin session
+[2019.05.01-07.37.04:282][287]PIE: New page: PIE session: Default (Apr 30, 2019, 5:37:04 PM)
+[2019.05.01-07.37.04:282][287]LogPlayLevel: Creating play world package: /Game/Developers/miki/UEDPIE_0_Default
+[2019.05.01-07.37.04:292][287]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010177s)
+[2019.05.01-07.37.04:293][287]LogAIModule: Creating AISystem for world Default
+[2019.05.01-07.37.04:293][287]LogPlayLevel: PIE: World Init took: (0.000487s)
+[2019.05.01-07.37.04:293][287]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Developers/miki/Default.Default to /Game/Developers/miki/UEDPIE_0_Default.Default (0.010822s)
+[2019.05.01-07.37.04:315][287]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2019.05.01-07.37.04:324][287]LogInit: XAudio2 using 'Altavoces (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.01-07.37.04:333][287]LogInit: FAudioDevice initialized.
+[2019.05.01-07.37.04:360][287]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.05.01-07.37.04:363][287]LogWorld: Bringing World /Game/Developers/miki/UEDPIE_0_Default.Default up for play (max tick rate 0) at 2019.05.01-00.37.04
+[2019.05.01-07.37.04:364][287]LogWorld: Bringing up level for play took: 0.003360
+[2019.05.01-07.37.04:377][287]PIE: Play in editor start time for /Game/Developers/miki/UEDPIE_0_Default 1.026
+[2019.05.01-07.37.04:377][287]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Developers/miki/Default.Default:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/miki/Default.Default:PersistentLevel.Default' with GeneratedClass '/Game/Developers/miki/Default.Default_C' with ClassGeneratedBy '/Game/Developers/miki/Default.Default:PersistentLevel.Default'
+[2019.05.01-07.37.04:377][287]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Developers/Shinya/ShinyaSL.ShinyaSL:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/Shinya/ShinyaSL.ShinyaSL:PersistentLevel.ShinyaSL' with GeneratedClass '/Game/Developers/Shinya/ShinyaSL.ShinyaSL_C' with ClassGeneratedBy '/Game/Developers/Shinya/ShinyaSL.ShinyaSL:PersistentLevel.ShinyaSL'
+[2019.05.01-07.37.04:377][287]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Developers/miki/MikiSL.MikiSL:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/miki/MikiSL.MikiSL:PersistentLevel.MikiSL' with GeneratedClass '/Game/Developers/miki/MikiSL.MikiSL_C' with ClassGeneratedBy '/Game/Developers/miki/MikiSL.MikiSL:PersistentLevel.MikiSL'
+[2019.05.01-07.37.04:377][287]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Developers/Adam/AdamSL.AdamSL:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/Adam/AdamSL.AdamSL:PersistentLevel.AdamSL' with GeneratedClass '/Game/Developers/Adam/AdamSL.AdamSL_C' with ClassGeneratedBy '/Game/Developers/Adam/AdamSL.AdamSL:PersistentLevel.AdamSL'
+[2019.05.01-07.37.11:276][886]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Developers/miki/Default.Default:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/miki/Default.Default:PersistentLevel.Default' with GeneratedClass '/Game/Developers/miki/Default.Default_C' with ClassGeneratedBy '/Game/Developers/miki/Default.Default:PersistentLevel.Default'
+[2019.05.01-07.37.11:276][886]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Developers/Shinya/ShinyaSL.ShinyaSL:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/Shinya/ShinyaSL.ShinyaSL:PersistentLevel.ShinyaSL' with GeneratedClass '/Game/Developers/Shinya/ShinyaSL.ShinyaSL_C' with ClassGeneratedBy '/Game/Developers/Shinya/ShinyaSL.ShinyaSL:PersistentLevel.ShinyaSL'
+[2019.05.01-07.37.11:276][886]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Developers/miki/MikiSL.MikiSL:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/miki/MikiSL.MikiSL:PersistentLevel.MikiSL' with GeneratedClass '/Game/Developers/miki/MikiSL.MikiSL_C' with ClassGeneratedBy '/Game/Developers/miki/MikiSL.MikiSL:PersistentLevel.MikiSL'
+[2019.05.01-07.37.11:276][886]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Developers/Adam/AdamSL.AdamSL:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/Adam/AdamSL.AdamSL:PersistentLevel.AdamSL' with GeneratedClass '/Game/Developers/Adam/AdamSL.AdamSL_C' with ClassGeneratedBy '/Game/Developers/Adam/AdamSL.AdamSL:PersistentLevel.AdamSL'
+[2019.05.01-07.37.11:285][886]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.01-07.37.11:314][886]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.01-07.37.11:314][886]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Developers/miki/Default.Default:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/miki/Default.Default:PersistentLevel.Default' with GeneratedClass '/Game/Developers/miki/Default.Default_C' with ClassGeneratedBy '/Game/Developers/miki/Default.Default:PersistentLevel.Default'
+[2019.05.01-07.37.11:314][886]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Developers/Shinya/ShinyaSL.ShinyaSL:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/Shinya/ShinyaSL.ShinyaSL:PersistentLevel.ShinyaSL' with GeneratedClass '/Game/Developers/Shinya/ShinyaSL.ShinyaSL_C' with ClassGeneratedBy '/Game/Developers/Shinya/ShinyaSL.ShinyaSL:PersistentLevel.ShinyaSL'
+[2019.05.01-07.37.11:315][886]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Developers/miki/MikiSL.MikiSL:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/miki/MikiSL.MikiSL:PersistentLevel.MikiSL' with GeneratedClass '/Game/Developers/miki/MikiSL.MikiSL_C' with ClassGeneratedBy '/Game/Developers/miki/MikiSL.MikiSL:PersistentLevel.MikiSL'
+[2019.05.01-07.37.11:315][886]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Developers/Adam/AdamSL.AdamSL:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/Adam/AdamSL.AdamSL:PersistentLevel.AdamSL' with GeneratedClass '/Game/Developers/Adam/AdamSL.AdamSL_C' with ClassGeneratedBy '/Game/Developers/Adam/AdamSL.AdamSL:PersistentLevel.AdamSL'
+[2019.05.01-07.37.11:341][886]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.01-07.37.11:345][886]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2019.05.01-07.37.11:381][887]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2019.05.01-07.37.13:439][ 73]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-07.37.17:535][445]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane3)
+[2019.05.01-07.37.27:074][188]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-07.37.27:192][195]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developers/Adam/AdamSL" FILE="../../../../../01/CactusClub/Content/Developers/Adam/AdamSL.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.01-07.37.27:215][195]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2019.05.01-07.37.27:218][195]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: AdamSL, Actor: /Game/Developers/Adam/AdamSL.AdamSL:PersistentLevel.REINST_AdamSL_C_0
+[2019.05.01-07.37.27:299][195]LogSavePackage: Moving '../../../../../01/CactusClub/Saved/AdamSLE7279A754998F76626D766BCF0F7EB8A.tmp' to '../../../../../01/CactusClub/Content/Developers/Adam/AdamSL.umap'
+[2019.05.01-07.37.32:010][546]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-07.37.52:767][  1]LogSlate: Window 'New Level' being destroyed
+[2019.05.01-07.37.52:870][  1]LogPackageName: SearchForPackageOnDisk took   0.097s, but failed to resolve .
+[2019.05.01-07.37.52:870][  1]LogUObjectGlobals: Warning: LoadPackage can't find package .
+[2019.05.01-07.37.52:881][  1]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.01-07.38.04:080][  1]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.05.01-07.38.06:740][  1]LogSlate: Window 'Save Level As' being destroyed
+[2019.05.01-07.38.06:753][  1]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.01-07.38.06:786][  1]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2019.05.01-07.38.06:788][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developers/miki/Temp_01" FILE="../../../../../01/CactusClub/Content/Developers/miki/Temp_01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.01-07.38.06:811][  1]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2019.05.01-07.38.06:895][  1]LogSavePackage: Moving '../../../../../01/CactusClub/Saved/Temp_01EA859A83481758B578C1679086542090.tmp' to '../../../../../01/CactusClub/Content/Developers/miki/Temp_01.umap'
+[2019.05.01-07.38.06:909][  1]LogFileHelpers: Saving map 'Temp_01' took 0.161
+[2019.05.01-07.38.06:913][  1]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.01-07.38.08:670][135]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-07.38.11:544][240]LogSlate: Window 'New Level' being destroyed
+[2019.05.01-07.38.11:635][240]LogPackageName: SearchForPackageOnDisk took   0.087s, but failed to resolve .
+[2019.05.01-07.38.11:635][240]LogUObjectGlobals: Warning: LoadPackage can't find package .
+[2019.05.01-07.38.11:646][240]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.01-07.38.21:286][240]LogSlate: Window 'Save Level As' being destroyed
+[2019.05.01-07.38.21:301][240]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.01-07.38.21:337][240]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2019.05.01-07.38.21:339][240]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developers/miki/Temp_02" FILE="../../../../../01/CactusClub/Content/Developers/miki/Temp_02.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.01-07.38.21:366][240]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2019.05.01-07.38.21:452][240]LogSavePackage: Moving '../../../../../01/CactusClub/Saved/Temp_023721E5FA4D09F61EE72146BB625E13D7.tmp' to '../../../../../01/CactusClub/Content/Developers/miki/Temp_02.umap'
+[2019.05.01-07.38.21:458][240]LogFileHelpers: Saving map 'Temp_02' took 0.163
+[2019.05.01-07.38.21:462][240]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.01-07.38.22:731][333]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-07.38.22:814][338]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developers/miki/Temp_02" FILE="../../../../../01/CactusClub/Content/Developers/miki/Temp_02.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.01-07.38.22:837][338]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2019.05.01-07.38.22:840][338]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Temp_02, Actor: /Game/Developers/miki/Temp_02.Temp_02:PersistentLevel.REINST_Temp_02_C_0
+[2019.05.01-07.38.22:920][338]LogSavePackage: Moving '../../../../../01/CactusClub/Saved/Temp_02185E901E4698720F4588A5A325BF6A67.tmp' to '../../../../../01/CactusClub/Content/Developers/miki/Temp_02.umap'
+[2019.05.01-07.38.25:451][512]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-07.38.30:580][888]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developers/miki/Default" FILE="../../../../../01/CactusClub/Content/Developers/miki/Default.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.01-07.38.30:605][888]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2019.05.01-07.38.30:820][888]LogSavePackage: Moving '../../../../../01/CactusClub/Saved/DefaultC7AA230F4A934A951EE14494D3944DDC.tmp' to '../../../../../01/CactusClub/Content/Developers/miki/Default.umap'
+[2019.05.01-07.38.30:844][888]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developers/miki/Default_BuiltData" FILE="../../../../../01/CactusClub/Content/Developers/miki/Default_BuiltData.uasset" SILENT=true
+[2019.05.01-07.38.31:073][888]LogSavePackage: Moving '../../../../../01/CactusClub/Saved/Default_BuiltData877C1C2146797B22C90C6589245CC070.tmp' to '../../../../../01/CactusClub/Content/Developers/miki/Default_BuiltData.uasset'
+[2019.05.01-07.38.33:184][ 47]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube32)
+[2019.05.01-07.38.34:268][121]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-07.38.34:327][125]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.01-07.38.34:336][125]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Developers/miki/Default.Default:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/miki/Default.Default:PersistentLevel.Default' with GeneratedClass '/Game/Developers/miki/Default.Default_C' with ClassGeneratedBy '/Game/Developers/miki/Default.Default:PersistentLevel.Default'
+[2019.05.01-07.38.34:336][125]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Developers/Shinya/ShinyaSL.ShinyaSL:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/Shinya/ShinyaSL.ShinyaSL:PersistentLevel.ShinyaSL' with GeneratedClass '/Game/Developers/Shinya/ShinyaSL.ShinyaSL_C' with ClassGeneratedBy '/Game/Developers/Shinya/ShinyaSL.ShinyaSL:PersistentLevel.ShinyaSL'
+[2019.05.01-07.38.34:336][125]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Developers/miki/MikiSL.MikiSL:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/miki/MikiSL.MikiSL:PersistentLevel.MikiSL' with GeneratedClass '/Game/Developers/miki/MikiSL.MikiSL_C' with ClassGeneratedBy '/Game/Developers/miki/MikiSL.MikiSL:PersistentLevel.MikiSL'
+[2019.05.01-07.38.34:336][125]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Developers/Adam/AdamSL.AdamSL:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/Adam/AdamSL.AdamSL:PersistentLevel.AdamSL' with GeneratedClass '/Game/Developers/Adam/AdamSL.AdamSL_C' with ClassGeneratedBy '/Game/Developers/Adam/AdamSL.AdamSL:PersistentLevel.AdamSL'
+[2019.05.01-07.38.34:336][125]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Developers/miki/Temp_01.Temp_01:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/miki/Temp_01.Temp_01:PersistentLevel.Temp_01' with GeneratedClass '/Game/Developers/miki/Temp_01.Temp_01_C' with ClassGeneratedBy '/Game/Developers/miki/Temp_01.Temp_01:PersistentLevel.Temp_01'
+[2019.05.01-07.38.34:336][125]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Developers/miki/Temp_02.Temp_02:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/miki/Temp_02.Temp_02:PersistentLevel.Temp_02' with GeneratedClass '/Game/Developers/miki/Temp_02.Temp_02_C' with ClassGeneratedBy '/Game/Developers/miki/Temp_02.Temp_02:PersistentLevel.Temp_02'
+[2019.05.01-07.38.34:336][125]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.01-07.38.34:336][125]LogHMD: Initializing OVRPlugin session
+[2019.05.01-07.38.34:358][125]PIE: New page: PIE session: Default (Apr 30, 2019, 5:38:34 PM)
+[2019.05.01-07.38.34:358][125]LogPlayLevel: Creating play world package: /Game/Developers/miki/UEDPIE_0_Default
+[2019.05.01-07.38.34:371][125]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012808s)
+[2019.05.01-07.38.34:372][125]LogAIModule: Creating AISystem for world Default
+[2019.05.01-07.38.34:372][125]LogPlayLevel: PIE: World Init took: (0.000544s)
+[2019.05.01-07.38.34:372][125]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Developers/miki/Default.Default to /Game/Developers/miki/UEDPIE_0_Default.Default (0.013491s)
+[2019.05.01-07.38.34:395][125]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2019.05.01-07.38.34:403][125]LogInit: XAudio2 using 'Altavoces (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.01-07.38.34:411][125]LogInit: FAudioDevice initialized.
+[2019.05.01-07.38.34:437][125]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.05.01-07.38.34:440][125]LogWorld: Bringing World /Game/Developers/miki/UEDPIE_0_Default.Default up for play (max tick rate 0) at 2019.05.01-00.38.34
+[2019.05.01-07.38.34:440][125]LogWorld: Bringing up level for play took: 0.003070
+[2019.05.01-07.38.34:453][125]PIE: Play in editor start time for /Game/Developers/miki/UEDPIE_0_Default 1.099
+[2019.05.01-07.38.34:453][125]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Developers/miki/Default.Default:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/miki/Default.Default:PersistentLevel.Default' with GeneratedClass '/Game/Developers/miki/Default.Default_C' with ClassGeneratedBy '/Game/Developers/miki/Default.Default:PersistentLevel.Default'
+[2019.05.01-07.38.34:453][125]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Developers/Shinya/ShinyaSL.ShinyaSL:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/Shinya/ShinyaSL.ShinyaSL:PersistentLevel.ShinyaSL' with GeneratedClass '/Game/Developers/Shinya/ShinyaSL.ShinyaSL_C' with ClassGeneratedBy '/Game/Developers/Shinya/ShinyaSL.ShinyaSL:PersistentLevel.ShinyaSL'
+[2019.05.01-07.38.34:453][125]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Developers/miki/MikiSL.MikiSL:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/miki/MikiSL.MikiSL:PersistentLevel.MikiSL' with GeneratedClass '/Game/Developers/miki/MikiSL.MikiSL_C' with ClassGeneratedBy '/Game/Developers/miki/MikiSL.MikiSL:PersistentLevel.MikiSL'
+[2019.05.01-07.38.34:453][125]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Developers/Adam/AdamSL.AdamSL:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/Adam/AdamSL.AdamSL:PersistentLevel.AdamSL' with GeneratedClass '/Game/Developers/Adam/AdamSL.AdamSL_C' with ClassGeneratedBy '/Game/Developers/Adam/AdamSL.AdamSL:PersistentLevel.AdamSL'
+[2019.05.01-07.38.34:453][125]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Developers/miki/Temp_01.Temp_01:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/miki/Temp_01.Temp_01:PersistentLevel.Temp_01' with GeneratedClass '/Game/Developers/miki/Temp_01.Temp_01_C' with ClassGeneratedBy '/Game/Developers/miki/Temp_01.Temp_01:PersistentLevel.Temp_01'
+[2019.05.01-07.38.34:453][125]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Developers/miki/Temp_02.Temp_02:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/miki/Temp_02.Temp_02:PersistentLevel.Temp_02' with GeneratedClass '/Game/Developers/miki/Temp_02.Temp_02_C' with ClassGeneratedBy '/Game/Developers/miki/Temp_02.Temp_02:PersistentLevel.Temp_02'
+[2019.05.01-07.39.14:396][639]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (52.862 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.01-07.39.24:180][508]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Developers/miki/Default.Default:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/miki/Default.Default:PersistentLevel.Default' with GeneratedClass '/Game/Developers/miki/Default.Default_C' with ClassGeneratedBy '/Game/Developers/miki/Default.Default:PersistentLevel.Default'
+[2019.05.01-07.39.24:180][508]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Developers/Shinya/ShinyaSL.ShinyaSL:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/Shinya/ShinyaSL.ShinyaSL:PersistentLevel.ShinyaSL' with GeneratedClass '/Game/Developers/Shinya/ShinyaSL.ShinyaSL_C' with ClassGeneratedBy '/Game/Developers/Shinya/ShinyaSL.ShinyaSL:PersistentLevel.ShinyaSL'
+[2019.05.01-07.39.24:180][508]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Developers/miki/MikiSL.MikiSL:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/miki/MikiSL.MikiSL:PersistentLevel.MikiSL' with GeneratedClass '/Game/Developers/miki/MikiSL.MikiSL_C' with ClassGeneratedBy '/Game/Developers/miki/MikiSL.MikiSL:PersistentLevel.MikiSL'
+[2019.05.01-07.39.24:180][508]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Developers/Adam/AdamSL.AdamSL:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/Adam/AdamSL.AdamSL:PersistentLevel.AdamSL' with GeneratedClass '/Game/Developers/Adam/AdamSL.AdamSL_C' with ClassGeneratedBy '/Game/Developers/Adam/AdamSL.AdamSL:PersistentLevel.AdamSL'
+[2019.05.01-07.39.24:180][508]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Developers/miki/Temp_01.Temp_01:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/miki/Temp_01.Temp_01:PersistentLevel.Temp_01' with GeneratedClass '/Game/Developers/miki/Temp_01.Temp_01_C' with ClassGeneratedBy '/Game/Developers/miki/Temp_01.Temp_01:PersistentLevel.Temp_01'
+[2019.05.01-07.39.24:181][508]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Developers/miki/Temp_02.Temp_02:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/miki/Temp_02.Temp_02:PersistentLevel.Temp_02' with GeneratedClass '/Game/Developers/miki/Temp_02.Temp_02_C' with ClassGeneratedBy '/Game/Developers/miki/Temp_02.Temp_02:PersistentLevel.Temp_02'
+[2019.05.01-07.39.24:189][508]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.01-07.39.24:218][508]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.01-07.39.24:219][508]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Developers/miki/Default.Default:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/miki/Default.Default:PersistentLevel.Default' with GeneratedClass '/Game/Developers/miki/Default.Default_C' with ClassGeneratedBy '/Game/Developers/miki/Default.Default:PersistentLevel.Default'
+[2019.05.01-07.39.24:219][508]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Developers/Shinya/ShinyaSL.ShinyaSL:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/Shinya/ShinyaSL.ShinyaSL:PersistentLevel.ShinyaSL' with GeneratedClass '/Game/Developers/Shinya/ShinyaSL.ShinyaSL_C' with ClassGeneratedBy '/Game/Developers/Shinya/ShinyaSL.ShinyaSL:PersistentLevel.ShinyaSL'
+[2019.05.01-07.39.24:219][508]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Developers/miki/MikiSL.MikiSL:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/miki/MikiSL.MikiSL:PersistentLevel.MikiSL' with GeneratedClass '/Game/Developers/miki/MikiSL.MikiSL_C' with ClassGeneratedBy '/Game/Developers/miki/MikiSL.MikiSL:PersistentLevel.MikiSL'
+[2019.05.01-07.39.24:219][508]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Developers/Adam/AdamSL.AdamSL:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/Adam/AdamSL.AdamSL:PersistentLevel.AdamSL' with GeneratedClass '/Game/Developers/Adam/AdamSL.AdamSL_C' with ClassGeneratedBy '/Game/Developers/Adam/AdamSL.AdamSL:PersistentLevel.AdamSL'
+[2019.05.01-07.39.24:219][508]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Developers/miki/Temp_01.Temp_01:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/miki/Temp_01.Temp_01:PersistentLevel.Temp_01' with GeneratedClass '/Game/Developers/miki/Temp_01.Temp_01_C' with ClassGeneratedBy '/Game/Developers/miki/Temp_01.Temp_01:PersistentLevel.Temp_01'
+[2019.05.01-07.39.24:219][508]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Developers/miki/Temp_02.Temp_02:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/miki/Temp_02.Temp_02:PersistentLevel.Temp_02' with GeneratedClass '/Game/Developers/miki/Temp_02.Temp_02_C' with ClassGeneratedBy '/Game/Developers/miki/Temp_02.Temp_02:PersistentLevel.Temp_02'
+[2019.05.01-07.39.24:242][508]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.01-07.39.24:245][508]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2019.05.01-07.39.24:307][510]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2019.05.01-07.39.33:636][724]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-07.39.33:823][724]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.01-07.39.33:830][724]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Developers/miki/Default.Default:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/miki/Default.Default:PersistentLevel.Default' with GeneratedClass '/Game/Developers/miki/Default.Default_C' with ClassGeneratedBy '/Game/Developers/miki/Default.Default:PersistentLevel.Default'
+[2019.05.01-07.39.33:830][724]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Developers/Shinya/ShinyaSL.ShinyaSL:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/Shinya/ShinyaSL.ShinyaSL:PersistentLevel.ShinyaSL' with GeneratedClass '/Game/Developers/Shinya/ShinyaSL.ShinyaSL_C' with ClassGeneratedBy '/Game/Developers/Shinya/ShinyaSL.ShinyaSL:PersistentLevel.ShinyaSL'
+[2019.05.01-07.39.33:830][724]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Developers/miki/MikiSL.MikiSL:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/miki/MikiSL.MikiSL:PersistentLevel.MikiSL' with GeneratedClass '/Game/Developers/miki/MikiSL.MikiSL_C' with ClassGeneratedBy '/Game/Developers/miki/MikiSL.MikiSL:PersistentLevel.MikiSL'
+[2019.05.01-07.39.33:830][724]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Developers/Adam/AdamSL.AdamSL:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/Adam/AdamSL.AdamSL:PersistentLevel.AdamSL' with GeneratedClass '/Game/Developers/Adam/AdamSL.AdamSL_C' with ClassGeneratedBy '/Game/Developers/Adam/AdamSL.AdamSL:PersistentLevel.AdamSL'
+[2019.05.01-07.39.33:830][724]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Developers/miki/Temp_01.Temp_01:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/miki/Temp_01.Temp_01:PersistentLevel.Temp_01' with GeneratedClass '/Game/Developers/miki/Temp_01.Temp_01_C' with ClassGeneratedBy '/Game/Developers/miki/Temp_01.Temp_01:PersistentLevel.Temp_01'
+[2019.05.01-07.39.33:830][724]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Developers/miki/Temp_02.Temp_02:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/miki/Temp_02.Temp_02:PersistentLevel.Temp_02' with GeneratedClass '/Game/Developers/miki/Temp_02.Temp_02_C' with ClassGeneratedBy '/Game/Developers/miki/Temp_02.Temp_02:PersistentLevel.Temp_02'
+[2019.05.01-07.39.33:831][724]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.01-07.39.33:831][724]LogHMD: Initializing OVRPlugin session
+[2019.05.01-07.39.33:854][724]PIE: New page: PIE session: Default (Apr 30, 2019, 5:39:33 PM)
+[2019.05.01-07.39.33:854][724]LogPlayLevel: Creating play world package: /Game/Developers/miki/UEDPIE_0_Default
+[2019.05.01-07.39.33:867][724]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012563s)
+[2019.05.01-07.39.33:867][724]LogAIModule: Creating AISystem for world Default
+[2019.05.01-07.39.33:867][724]LogPlayLevel: PIE: World Init took: (0.000456s)
+[2019.05.01-07.39.33:867][724]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Developers/miki/Default.Default to /Game/Developers/miki/UEDPIE_0_Default.Default (0.013162s)
+[2019.05.01-07.39.33:887][724]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2019.05.01-07.39.33:896][724]LogInit: XAudio2 using 'Altavoces (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.01-07.39.33:904][724]LogInit: FAudioDevice initialized.
+[2019.05.01-07.39.33:928][724]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.05.01-07.39.33:931][724]LogWorld: Bringing World /Game/Developers/miki/UEDPIE_0_Default.Default up for play (max tick rate 0) at 2019.05.01-00.39.33
+[2019.05.01-07.39.33:932][724]LogWorld: Bringing up level for play took: 0.003197
+[2019.05.01-07.39.33:945][724]PIE: Play in editor start time for /Game/Developers/miki/UEDPIE_0_Default 0.591
+[2019.05.01-07.39.33:945][724]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Developers/miki/Default.Default:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/miki/Default.Default:PersistentLevel.Default' with GeneratedClass '/Game/Developers/miki/Default.Default_C' with ClassGeneratedBy '/Game/Developers/miki/Default.Default:PersistentLevel.Default'
+[2019.05.01-07.39.33:945][724]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Developers/Shinya/ShinyaSL.ShinyaSL:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/Shinya/ShinyaSL.ShinyaSL:PersistentLevel.ShinyaSL' with GeneratedClass '/Game/Developers/Shinya/ShinyaSL.ShinyaSL_C' with ClassGeneratedBy '/Game/Developers/Shinya/ShinyaSL.ShinyaSL:PersistentLevel.ShinyaSL'
+[2019.05.01-07.39.33:945][724]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Developers/miki/MikiSL.MikiSL:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/miki/MikiSL.MikiSL:PersistentLevel.MikiSL' with GeneratedClass '/Game/Developers/miki/MikiSL.MikiSL_C' with ClassGeneratedBy '/Game/Developers/miki/MikiSL.MikiSL:PersistentLevel.MikiSL'
+[2019.05.01-07.39.33:945][724]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Developers/Adam/AdamSL.AdamSL:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/Adam/AdamSL.AdamSL:PersistentLevel.AdamSL' with GeneratedClass '/Game/Developers/Adam/AdamSL.AdamSL_C' with ClassGeneratedBy '/Game/Developers/Adam/AdamSL.AdamSL:PersistentLevel.AdamSL'
+[2019.05.01-07.39.33:945][724]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Developers/miki/Temp_01.Temp_01:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/miki/Temp_01.Temp_01:PersistentLevel.Temp_01' with GeneratedClass '/Game/Developers/miki/Temp_01.Temp_01_C' with ClassGeneratedBy '/Game/Developers/miki/Temp_01.Temp_01:PersistentLevel.Temp_01'
+[2019.05.01-07.39.33:945][724]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Developers/miki/Temp_02.Temp_02:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/miki/Temp_02.Temp_02:PersistentLevel.Temp_02' with GeneratedClass '/Game/Developers/miki/Temp_02.Temp_02_C' with ClassGeneratedBy '/Game/Developers/miki/Temp_02.Temp_02:PersistentLevel.Temp_02'
+[2019.05.01-07.40.18:293][978]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Developers/miki/Default.Default:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/miki/Default.Default:PersistentLevel.Default' with GeneratedClass '/Game/Developers/miki/Default.Default_C' with ClassGeneratedBy '/Game/Developers/miki/Default.Default:PersistentLevel.Default'
+[2019.05.01-07.40.18:293][978]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Developers/Shinya/ShinyaSL.ShinyaSL:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/Shinya/ShinyaSL.ShinyaSL:PersistentLevel.ShinyaSL' with GeneratedClass '/Game/Developers/Shinya/ShinyaSL.ShinyaSL_C' with ClassGeneratedBy '/Game/Developers/Shinya/ShinyaSL.ShinyaSL:PersistentLevel.ShinyaSL'
+[2019.05.01-07.40.18:293][978]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Developers/miki/MikiSL.MikiSL:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/miki/MikiSL.MikiSL:PersistentLevel.MikiSL' with GeneratedClass '/Game/Developers/miki/MikiSL.MikiSL_C' with ClassGeneratedBy '/Game/Developers/miki/MikiSL.MikiSL:PersistentLevel.MikiSL'
+[2019.05.01-07.40.18:293][978]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Developers/Adam/AdamSL.AdamSL:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/Adam/AdamSL.AdamSL:PersistentLevel.AdamSL' with GeneratedClass '/Game/Developers/Adam/AdamSL.AdamSL_C' with ClassGeneratedBy '/Game/Developers/Adam/AdamSL.AdamSL:PersistentLevel.AdamSL'
+[2019.05.01-07.40.18:293][978]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Developers/miki/Temp_01.Temp_01:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/miki/Temp_01.Temp_01:PersistentLevel.Temp_01' with GeneratedClass '/Game/Developers/miki/Temp_01.Temp_01_C' with ClassGeneratedBy '/Game/Developers/miki/Temp_01.Temp_01:PersistentLevel.Temp_01'
+[2019.05.01-07.40.18:293][978]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Developers/miki/Temp_02.Temp_02:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/miki/Temp_02.Temp_02:PersistentLevel.Temp_02' with GeneratedClass '/Game/Developers/miki/Temp_02.Temp_02_C' with ClassGeneratedBy '/Game/Developers/miki/Temp_02.Temp_02:PersistentLevel.Temp_02'
+[2019.05.01-07.40.18:302][978]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.01-07.40.18:326][978]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.01-07.40.18:326][978]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Developers/miki/Default.Default:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/miki/Default.Default:PersistentLevel.Default' with GeneratedClass '/Game/Developers/miki/Default.Default_C' with ClassGeneratedBy '/Game/Developers/miki/Default.Default:PersistentLevel.Default'
+[2019.05.01-07.40.18:326][978]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Developers/Shinya/ShinyaSL.ShinyaSL:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/Shinya/ShinyaSL.ShinyaSL:PersistentLevel.ShinyaSL' with GeneratedClass '/Game/Developers/Shinya/ShinyaSL.ShinyaSL_C' with ClassGeneratedBy '/Game/Developers/Shinya/ShinyaSL.ShinyaSL:PersistentLevel.ShinyaSL'
+[2019.05.01-07.40.18:327][978]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Developers/miki/MikiSL.MikiSL:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/miki/MikiSL.MikiSL:PersistentLevel.MikiSL' with GeneratedClass '/Game/Developers/miki/MikiSL.MikiSL_C' with ClassGeneratedBy '/Game/Developers/miki/MikiSL.MikiSL:PersistentLevel.MikiSL'
+[2019.05.01-07.40.18:327][978]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Developers/Adam/AdamSL.AdamSL:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/Adam/AdamSL.AdamSL:PersistentLevel.AdamSL' with GeneratedClass '/Game/Developers/Adam/AdamSL.AdamSL_C' with ClassGeneratedBy '/Game/Developers/Adam/AdamSL.AdamSL:PersistentLevel.AdamSL'
+[2019.05.01-07.40.18:327][978]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Developers/miki/Temp_01.Temp_01:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/miki/Temp_01.Temp_01:PersistentLevel.Temp_01' with GeneratedClass '/Game/Developers/miki/Temp_01.Temp_01_C' with ClassGeneratedBy '/Game/Developers/miki/Temp_01.Temp_01:PersistentLevel.Temp_01'
+[2019.05.01-07.40.18:327][978]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Developers/miki/Temp_02.Temp_02:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/miki/Temp_02.Temp_02:PersistentLevel.Temp_02' with GeneratedClass '/Game/Developers/miki/Temp_02.Temp_02_C' with ClassGeneratedBy '/Game/Developers/miki/Temp_02.Temp_02:PersistentLevel.Temp_02'
+[2019.05.01-07.40.18:351][978]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.01-07.40.18:354][978]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2019.05.01-07.40.18:394][980]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2019.05.01-07.40.19:662][ 88]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-07.40.19:771][ 95]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developers/miki/Default" FILE="../../../../../01/CactusClub/Content/Developers/miki/Default.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.01-07.40.19:793][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2019.05.01-07.40.20:005][ 95]LogSavePackage: Moving '../../../../../01/CactusClub/Saved/DefaultB172981C46FB686C6E374983458C2766.tmp' to '../../../../../01/CactusClub/Content/Developers/miki/Default.umap'
+[2019.05.01-07.40.20:023][ 95]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developers/miki/Default_BuiltData" FILE="../../../../../01/CactusClub/Content/Developers/miki/Default_BuiltData.uasset" SILENT=true
+[2019.05.01-07.40.20:250][ 95]LogSavePackage: Moving '../../../../../01/CactusClub/Saved/Default_BuiltData9B733A004B877B256CBF90ABC7133C7F.tmp' to '../../../../../01/CactusClub/Content/Developers/miki/Default_BuiltData.uasset'
