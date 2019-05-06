@@ -3703,3 +3703,41 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.05.06-06.40.14:857][265]LogSavePackage: Moving '../../../../../01/CactusClub/Saved/Default3E5FF9EF402A5ADF30F1919AF56B8273.tmp' to '../../../../../01/CactusClub/Content/Developers/miki/Default.umap'
 [2019.05.06-06.40.14:879][265]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developers/miki/Default_BuiltData" FILE="../../../../../01/CactusClub/Content/Developers/miki/Default_BuiltData.uasset" SILENT=true
 [2019.05.06-06.40.15:105][265]LogSavePackage: Moving '../../../../../01/CactusClub/Saved/Default_BuiltDataD4419A934F5F25F33EDCE5B1542C2548.tmp' to '../../../../../01/CactusClub/Content/Developers/miki/Default_BuiltData.uasset'
+[2019.05.06-06.40.34:276][457]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2019.05.06-06.40.34:303][457]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developers/miki/Temp_02" FILE="../../../../../01/CactusClub/Content/Developers/miki/Temp_02.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.06-06.40.34:333][457]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2019.05.06-06.40.34:337][457]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Temp_02, Actor: /Game/Developers/miki/Temp_02.Temp_02:PersistentLevel.REINST_Temp_02_C_0
+[2019.05.06-06.40.34:470][457]LogSavePackage: Moving '../../../../../01/CactusClub/Saved/Temp_02DB0199A344722936F2F78F80ECDB9186.tmp' to '../../../../../01/CactusClub/Content/Developers/miki/Temp_02.umap'
+[2019.05.06-06.40.34:472][457]LogFileHelpers: Saving map 'Temp_02' took 0.169
+[2019.05.06-06.40.34:476][457]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developers/miki/Temp_02_BuiltData" FILE="../../../../../01/CactusClub/Content/Developers/miki/Temp_02_BuiltData.uasset" SILENT=true
+[2019.05.06-06.40.34:479][457]LogSavePackage: Moving '../../../../../01/CactusClub/Saved/Temp_02_BuiltData30A056E24A368896C1B0B29FEC332AC6.tmp' to '../../../../../01/CactusClub/Content/Developers/miki/Temp_02_BuiltData.uasset'
+[2019.05.06-06.40.34:485][457]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developers/Adam/AdamSL" FILE="../../../../../01/CactusClub/Content/Developers/Adam/AdamSL.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.06-06.40.34:520][457]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2019.05.06-06.40.34:525][457]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: AdamSL, Actor: /Game/Developers/Adam/AdamSL.AdamSL:PersistentLevel.REINST_AdamSL_C_0
+[2019.05.06-06.40.34:672][457]LogSavePackage: Moving '../../../../../01/CactusClub/Saved/AdamSL1473B1204D8524DCADC4E3AC17353F00.tmp' to '../../../../../01/CactusClub/Content/Developers/Adam/AdamSL.umap'
+[2019.05.06-06.40.34:675][457]LogFileHelpers: Saving map 'AdamSL' took 0.190
+[2019.05.06-06.40.34:679][457]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developers/Adam/AdamSL_BuiltData" FILE="../../../../../01/CactusClub/Content/Developers/Adam/AdamSL_BuiltData.uasset" SILENT=true
+[2019.05.06-06.40.34:688][457]LogSavePackage: Moving '../../../../../01/CactusClub/Saved/AdamSL_BuiltData212C59EB4671C180874B599A93D52E46.tmp' to '../../../../../01/CactusClub/Content/Developers/Adam/AdamSL_BuiltData.uasset'
+[2019.05.06-06.40.34:695][457]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developers/miki/Temp_01" FILE="../../../../../01/CactusClub/Content/Developers/miki/Temp_01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.06-06.40.34:727][457]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2019.05.06-06.40.34:731][457]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Temp_01, Actor: /Game/Developers/miki/Temp_01.Temp_01:PersistentLevel.REINST_Temp_01_C_0
+[2019.05.06-06.40.34:864][457]LogSavePackage: Moving '../../../../../01/CactusClub/Saved/Temp_019DE14DEA475E970B860BED9392990114.tmp' to '../../../../../01/CactusClub/Content/Developers/miki/Temp_01.umap'
+[2019.05.06-06.40.34:868][457]LogFileHelpers: Saving map 'Temp_01' took 0.173
+[2019.05.06-06.40.34:874][457]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developers/miki/Temp_01_BuiltData" FILE="../../../../../01/CactusClub/Content/Developers/miki/Temp_01_BuiltData.uasset" SILENT=true
+[2019.05.06-06.40.34:877][457]LogSavePackage: Moving '../../../../../01/CactusClub/Saved/Temp_01_BuiltDataBFB3BA364D43892E48A9C6931009E006.tmp' to '../../../../../01/CactusClub/Content/Developers/miki/Temp_01_BuiltData.uasset'
+[2019.05.06-06.40.34:885][457]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developers/Shinya/ShinyaSL" FILE="../../../../../01/CactusClub/Content/Developers/Shinya/ShinyaSL.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.06-06.40.34:920][457]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2019.05.06-06.40.34:925][457]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: ShinyaSL, Actor: /Game/Developers/Shinya/ShinyaSL.ShinyaSL:PersistentLevel.REINST_ShinyaSL_C_0
+[2019.05.06-06.40.35:056][457]LogSavePackage: Moving '../../../../../01/CactusClub/Saved/ShinyaSL8BDF50ED48DBCFA3525BDD862021289D.tmp' to '../../../../../01/CactusClub/Content/Developers/Shinya/ShinyaSL.umap'
+[2019.05.06-06.40.35:058][457]LogFileHelpers: Saving map 'ShinyaSL' took 0.174
+[2019.05.06-06.40.35:062][457]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developers/Shinya/ShinyaSL_BuiltData" FILE="../../../../../01/CactusClub/Content/Developers/Shinya/ShinyaSL_BuiltData.uasset" SILENT=true
+[2019.05.06-06.40.35:065][457]LogSavePackage: Moving '../../../../../01/CactusClub/Saved/ShinyaSL_BuiltData4103160847A02183B9FB599D9C0D15F4.tmp' to '../../../../../01/CactusClub/Content/Developers/Shinya/ShinyaSL_BuiltData.uasset'
+[2019.05.06-06.40.35:071][457]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developers/miki/MikiSL" FILE="../../../../../01/CactusClub/Content/Developers/miki/MikiSL.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.06-06.40.35:100][457]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2019.05.06-06.40.35:104][457]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: MikiSL, Actor: /Game/Developers/miki/MikiSL.MikiSL:PersistentLevel.REINST_MikiSL_C_0
+[2019.05.06-06.40.35:244][457]LogSavePackage: Moving '../../../../../01/CactusClub/Saved/MikiSL32B62B874844341A412932BF50A2869A.tmp' to '../../../../../01/CactusClub/Content/Developers/miki/MikiSL.umap'
+[2019.05.06-06.40.35:247][457]LogFileHelpers: Saving map 'MikiSL' took 0.177
+[2019.05.06-06.40.35:252][457]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developers/miki/MikiSL_BuiltData" FILE="../../../../../01/CactusClub/Content/Developers/miki/MikiSL_BuiltData.uasset" SILENT=true
+[2019.05.06-06.40.35:256][457]LogSavePackage: Moving '../../../../../01/CactusClub/Saved/MikiSL_BuiltData300508CC48F178BE928107A99C173499.tmp' to '../../../../../01/CactusClub/Content/Developers/miki/MikiSL_BuiltData.uasset'
+[2019.05.06-06.40.35:265][457]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developers/miki/drip1" FILE="../../../../../01/CactusClub/Content/Developers/miki/drip1.uasset" SILENT=true
+[2019.05.06-06.40.35:269][457]LogSavePackage: Moving '../../../../../01/CactusClub/Saved/drip127097C894CA6C5A3A24CBA9DB7B9802D.tmp' to '../../../../../01/CactusClub/Content/Developers/miki/drip1.uasset'
