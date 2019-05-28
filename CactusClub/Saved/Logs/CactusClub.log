@@ -764,3 +764,26 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.05.28-07.01.47:708][617]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Gibson, Actor: /Game/Developers/miki/Gibson.Gibson:PersistentLevel.REINST_Gibson_C_0
 [2019.05.28-07.01.47:792][617]LogSavePackage: Moving '../../../../../01/CactusClub/Saved/GibsonE86CAF464774AF1D12FAC49A9C3E8DA4.tmp' to '../../../../../01/CactusClub/Content/Developers/miki/Gibson.umap'
 [2019.05.28-07.02.17:899][117]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.28-07.10.30:678][363]LogSlate: Window 'Levels' being destroyed
+[2019.05.28-07.11.47:646][706]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2019.05.28-07.11.47:646][706]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developers/miki/Default" FILE="../../../../../01/CactusClub/Saved/Autosaves/Game/Developers/miki/Default_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.05.28-07.11.47:913][706]LogSavePackage: Moving '../../../../../01/CactusClub/Saved/Default_Auto10541E3314E08F74EB968EA8AE6327EF0.tmp' to '../../../../../01/CactusClub/Saved/Autosaves/Game/Developers/miki/Default_Auto1.umap'
+[2019.05.28-07.11.47:925][706]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developers/Shinya/ShinyaSL" FILE="../../../../../01/CactusClub/Saved/Autosaves/Game/Developers/Shinya/ShinyaSL_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.05.28-07.11.47:929][706]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: ShinyaSL, Actor: /Game/Developers/Shinya/ShinyaSL.ShinyaSL:PersistentLevel.REINST_ShinyaSL_C_0
+[2019.05.28-07.11.48:022][706]LogSavePackage: Moving '../../../../../01/CactusClub/Saved/ShinyaSL_Auto1D23EB38E41FA7EDA9203CEBDAE9F6847.tmp' to '../../../../../01/CactusClub/Saved/Autosaves/Game/Developers/Shinya/ShinyaSL_Auto1.umap'
+[2019.05.28-07.11.48:024][706]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developers/miki/MikiSL" FILE="../../../../../01/CactusClub/Saved/Autosaves/Game/Developers/miki/MikiSL_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.05.28-07.11.48:028][706]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: MikiSL, Actor: /Game/Developers/miki/MikiSL.MikiSL:PersistentLevel.REINST_MikiSL_C_0
+[2019.05.28-07.11.48:116][706]LogSavePackage: Moving '../../../../../01/CactusClub/Saved/MikiSL_Auto13CC32D8B448C341D6CBDDBA61103631C.tmp' to '../../../../../01/CactusClub/Saved/Autosaves/Game/Developers/miki/MikiSL_Auto1.umap'
+[2019.05.28-07.11.48:118][706]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developers/Adam/AdamSL" FILE="../../../../../01/CactusClub/Saved/Autosaves/Game/Developers/Adam/AdamSL_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.05.28-07.11.48:122][706]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: AdamSL, Actor: /Game/Developers/Adam/AdamSL.AdamSL:PersistentLevel.REINST_AdamSL_C_0
+[2019.05.28-07.11.48:212][706]LogSavePackage: Moving '../../../../../01/CactusClub/Saved/AdamSL_Auto14B673154476B456E66B5C2AAF4B35D79.tmp' to '../../../../../01/CactusClub/Saved/Autosaves/Game/Developers/Adam/AdamSL_Auto1.umap'
+[2019.05.28-07.11.48:213][706]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developers/miki/Temp_01" FILE="../../../../../01/CactusClub/Saved/Autosaves/Game/Developers/miki/Temp_01_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.05.28-07.11.48:218][706]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Temp_01, Actor: /Game/Developers/miki/Temp_01.Temp_01:PersistentLevel.REINST_Temp_01_C_0
+[2019.05.28-07.11.48:300][706]LogSavePackage: Moving '../../../../../01/CactusClub/Saved/Temp_01_Auto18A18FFAD477C0BCDE4CB8693539CE3AF.tmp' to '../../../../../01/CactusClub/Saved/Autosaves/Game/Developers/miki/Temp_01_Auto1.umap'
+[2019.05.28-07.11.48:302][706]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developers/miki/Temp_02" FILE="../../../../../01/CactusClub/Saved/Autosaves/Game/Developers/miki/Temp_02_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.05.28-07.11.48:306][706]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Temp_02, Actor: /Game/Developers/miki/Temp_02.Temp_02:PersistentLevel.REINST_Temp_02_C_0
+[2019.05.28-07.11.48:390][706]LogSavePackage: Moving '../../../../../01/CactusClub/Saved/Temp_02_Auto1883736F64D454C2B753122941EE42D27.tmp' to '../../../../../01/CactusClub/Saved/Autosaves/Game/Developers/miki/Temp_02_Auto1.umap'
+[2019.05.28-07.11.48:392][706]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Developers/miki/Default' took 0.769
+[2019.05.28-07.11.48:392][706]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.769
+[2019.05.28-07.12.19:420][800]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.28-07.14.17:152][546]LogSlate: FSceneViewport::OnFocusLost() reason 0
