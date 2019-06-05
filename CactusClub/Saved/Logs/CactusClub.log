@@ -787,3 +787,913 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.05.28-07.11.48:392][706]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.769
 [2019.05.28-07.12.19:420][800]LogSlate: FSceneViewport::OnFocusLost() reason 2
 [2019.05.28-07.14.17:152][546]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.28-07.21.48:751][899]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2019.05.28-07.21.48:751][899]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Developers/miki/Default' took 0.024
+[2019.05.28-07.25.07:491][492]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{c77ad65e-a2b7-4233-a858-edca49da27fa} was removed. Shutting down audio device.
+[2019.05.28-07.25.07:491][492]LogInit: XAudio2 using 'Auriculares (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.28-07.25.08:518][495]LogInit: XAudio2 using 'Altavoces (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.28-07.31.49:353][691]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2019.05.28-07.31.49:354][691]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Developers/miki/Default' took 0.020
+[2019.05.28-07.41.49:975][483]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2019.05.28-07.41.49:975][483]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Developers/miki/Default' took 0.020
+[2019.05.28-07.51.50:601][275]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2019.05.28-07.51.50:601][275]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Developers/miki/Default' took 0.024
+[2019.05.28-08.01.51:068][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2019.05.28-08.01.51:068][ 66]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Developers/miki/Default' took 0.020
+[2019.05.28-08.04.19:192][508]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.28-08.04.21:536][733]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.28-08.04.21:585][738]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.28-08.04.21:606][738]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Developers/miki/Default.Default:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/miki/Default.Default:PersistentLevel.Default' with GeneratedClass '/Game/Developers/miki/Default.Default_C' with ClassGeneratedBy '/Game/Developers/miki/Default.Default:PersistentLevel.Default'
+[2019.05.28-08.04.21:607][738]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Developers/Shinya/ShinyaSL.ShinyaSL:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/Shinya/ShinyaSL.ShinyaSL:PersistentLevel.ShinyaSL' with GeneratedClass '/Game/Developers/Shinya/ShinyaSL.ShinyaSL_C' with ClassGeneratedBy '/Game/Developers/Shinya/ShinyaSL.ShinyaSL:PersistentLevel.ShinyaSL'
+[2019.05.28-08.04.21:607][738]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Developers/miki/MikiSL.MikiSL:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/miki/MikiSL.MikiSL:PersistentLevel.MikiSL' with GeneratedClass '/Game/Developers/miki/MikiSL.MikiSL_C' with ClassGeneratedBy '/Game/Developers/miki/MikiSL.MikiSL:PersistentLevel.MikiSL'
+[2019.05.28-08.04.21:607][738]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Developers/Adam/AdamSL.AdamSL:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/Adam/AdamSL.AdamSL:PersistentLevel.AdamSL' with GeneratedClass '/Game/Developers/Adam/AdamSL.AdamSL_C' with ClassGeneratedBy '/Game/Developers/Adam/AdamSL.AdamSL:PersistentLevel.AdamSL'
+[2019.05.28-08.04.21:607][738]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Developers/miki/Temp_01.Temp_01:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/miki/Temp_01.Temp_01:PersistentLevel.Temp_01' with GeneratedClass '/Game/Developers/miki/Temp_01.Temp_01_C' with ClassGeneratedBy '/Game/Developers/miki/Temp_01.Temp_01:PersistentLevel.Temp_01'
+[2019.05.28-08.04.21:607][738]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Developers/miki/Temp_02.Temp_02:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/miki/Temp_02.Temp_02:PersistentLevel.Temp_02' with GeneratedClass '/Game/Developers/miki/Temp_02.Temp_02_C' with ClassGeneratedBy '/Game/Developers/miki/Temp_02.Temp_02:PersistentLevel.Temp_02'
+[2019.05.28-08.04.21:607][738]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Developers/miki/Gibson.Gibson:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/miki/Gibson.Gibson:PersistentLevel.Gibson' with GeneratedClass '/Game/Developers/miki/Gibson.Gibson_C' with ClassGeneratedBy '/Game/Developers/miki/Gibson.Gibson:PersistentLevel.Gibson'
+[2019.05.28-08.04.21:607][738]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.28-08.04.21:607][738]LogHMD: Initializing OVRPlugin session
+[2019.05.28-08.04.21:625][738]PIE: New page: PIE session: Default (May 27, 2019, 6:04:21 PM)
+[2019.05.28-08.04.21:625][738]LogPlayLevel: Creating play world package: /Game/Developers/miki/UEDPIE_0_Default
+[2019.05.28-08.04.21:636][738]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011211s)
+[2019.05.28-08.04.21:637][738]LogAIModule: Creating AISystem for world Default
+[2019.05.28-08.04.21:637][738]LogPlayLevel: PIE: World Init took: (0.000504s)
+[2019.05.28-08.04.21:637][738]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Developers/miki/Default.Default to /Game/Developers/miki/UEDPIE_0_Default.Default (0.011866s)
+[2019.05.28-08.04.21:661][738]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2019.05.28-08.04.21:669][738]LogInit: XAudio2 using 'Altavoces (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.28-08.04.21:677][738]LogInit: FAudioDevice initialized.
+[2019.05.28-08.04.21:705][738]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.05.28-08.04.21:708][738]LogWorld: Bringing World /Game/Developers/miki/UEDPIE_0_Default.Default up for play (max tick rate 0) at 2019.05.28-01.04.21
+[2019.05.28-08.04.21:709][738]LogWorld: Bringing up level for play took: 0.003421
+[2019.05.28-08.04.21:721][738]PIE: Play in editor start time for /Game/Developers/miki/UEDPIE_0_Default 0.126
+[2019.05.28-08.04.21:721][738]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Developers/miki/Default.Default:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/miki/Default.Default:PersistentLevel.Default' with GeneratedClass '/Game/Developers/miki/Default.Default_C' with ClassGeneratedBy '/Game/Developers/miki/Default.Default:PersistentLevel.Default'
+[2019.05.28-08.04.21:721][738]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Developers/Shinya/ShinyaSL.ShinyaSL:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/Shinya/ShinyaSL.ShinyaSL:PersistentLevel.ShinyaSL' with GeneratedClass '/Game/Developers/Shinya/ShinyaSL.ShinyaSL_C' with ClassGeneratedBy '/Game/Developers/Shinya/ShinyaSL.ShinyaSL:PersistentLevel.ShinyaSL'
+[2019.05.28-08.04.21:721][738]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Developers/miki/MikiSL.MikiSL:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/miki/MikiSL.MikiSL:PersistentLevel.MikiSL' with GeneratedClass '/Game/Developers/miki/MikiSL.MikiSL_C' with ClassGeneratedBy '/Game/Developers/miki/MikiSL.MikiSL:PersistentLevel.MikiSL'
+[2019.05.28-08.04.21:721][738]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Developers/Adam/AdamSL.AdamSL:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/Adam/AdamSL.AdamSL:PersistentLevel.AdamSL' with GeneratedClass '/Game/Developers/Adam/AdamSL.AdamSL_C' with ClassGeneratedBy '/Game/Developers/Adam/AdamSL.AdamSL:PersistentLevel.AdamSL'
+[2019.05.28-08.04.21:721][738]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Developers/miki/Temp_01.Temp_01:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/miki/Temp_01.Temp_01:PersistentLevel.Temp_01' with GeneratedClass '/Game/Developers/miki/Temp_01.Temp_01_C' with ClassGeneratedBy '/Game/Developers/miki/Temp_01.Temp_01:PersistentLevel.Temp_01'
+[2019.05.28-08.04.21:721][738]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Developers/miki/Temp_02.Temp_02:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/miki/Temp_02.Temp_02:PersistentLevel.Temp_02' with GeneratedClass '/Game/Developers/miki/Temp_02.Temp_02_C' with ClassGeneratedBy '/Game/Developers/miki/Temp_02.Temp_02:PersistentLevel.Temp_02'
+[2019.05.28-08.04.21:721][738]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Developers/miki/Gibson.Gibson:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/miki/Gibson.Gibson:PersistentLevel.Gibson' with GeneratedClass '/Game/Developers/miki/Gibson.Gibson_C' with ClassGeneratedBy '/Game/Developers/miki/Gibson.Gibson:PersistentLevel.Gibson'
+[2019.05.28-08.04.34:658][201]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.28-08.04.47:450][307]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.28-08.05.25:554][643]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.28-08.07.35:756][503]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.28-08.09.08:077][958]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.28-08.16.34:238][968]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Developers/miki/Default.Default:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/miki/Default.Default:PersistentLevel.Default' with GeneratedClass '/Game/Developers/miki/Default.Default_C' with ClassGeneratedBy '/Game/Developers/miki/Default.Default:PersistentLevel.Default'
+[2019.05.28-08.16.34:238][968]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Developers/Shinya/ShinyaSL.ShinyaSL:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/Shinya/ShinyaSL.ShinyaSL:PersistentLevel.ShinyaSL' with GeneratedClass '/Game/Developers/Shinya/ShinyaSL.ShinyaSL_C' with ClassGeneratedBy '/Game/Developers/Shinya/ShinyaSL.ShinyaSL:PersistentLevel.ShinyaSL'
+[2019.05.28-08.16.34:238][968]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Developers/miki/MikiSL.MikiSL:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/miki/MikiSL.MikiSL:PersistentLevel.MikiSL' with GeneratedClass '/Game/Developers/miki/MikiSL.MikiSL_C' with ClassGeneratedBy '/Game/Developers/miki/MikiSL.MikiSL:PersistentLevel.MikiSL'
+[2019.05.28-08.16.34:238][968]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Developers/Adam/AdamSL.AdamSL:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/Adam/AdamSL.AdamSL:PersistentLevel.AdamSL' with GeneratedClass '/Game/Developers/Adam/AdamSL.AdamSL_C' with ClassGeneratedBy '/Game/Developers/Adam/AdamSL.AdamSL:PersistentLevel.AdamSL'
+[2019.05.28-08.16.34:238][968]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Developers/miki/Temp_01.Temp_01:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/miki/Temp_01.Temp_01:PersistentLevel.Temp_01' with GeneratedClass '/Game/Developers/miki/Temp_01.Temp_01_C' with ClassGeneratedBy '/Game/Developers/miki/Temp_01.Temp_01:PersistentLevel.Temp_01'
+[2019.05.28-08.16.34:238][968]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Developers/miki/Temp_02.Temp_02:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/miki/Temp_02.Temp_02:PersistentLevel.Temp_02' with GeneratedClass '/Game/Developers/miki/Temp_02.Temp_02_C' with ClassGeneratedBy '/Game/Developers/miki/Temp_02.Temp_02:PersistentLevel.Temp_02'
+[2019.05.28-08.16.34:238][968]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Developers/miki/Gibson.Gibson:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/miki/Gibson.Gibson:PersistentLevel.Gibson' with GeneratedClass '/Game/Developers/miki/Gibson.Gibson_C' with ClassGeneratedBy '/Game/Developers/miki/Gibson.Gibson:PersistentLevel.Gibson'
+[2019.05.28-08.16.34:245][968]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.28-08.16.34:271][968]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.28-08.16.34:272][968]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Developers/miki/Default.Default:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/miki/Default.Default:PersistentLevel.Default' with GeneratedClass '/Game/Developers/miki/Default.Default_C' with ClassGeneratedBy '/Game/Developers/miki/Default.Default:PersistentLevel.Default'
+[2019.05.28-08.16.34:272][968]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Developers/Shinya/ShinyaSL.ShinyaSL:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/Shinya/ShinyaSL.ShinyaSL:PersistentLevel.ShinyaSL' with GeneratedClass '/Game/Developers/Shinya/ShinyaSL.ShinyaSL_C' with ClassGeneratedBy '/Game/Developers/Shinya/ShinyaSL.ShinyaSL:PersistentLevel.ShinyaSL'
+[2019.05.28-08.16.34:272][968]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Developers/miki/MikiSL.MikiSL:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/miki/MikiSL.MikiSL:PersistentLevel.MikiSL' with GeneratedClass '/Game/Developers/miki/MikiSL.MikiSL_C' with ClassGeneratedBy '/Game/Developers/miki/MikiSL.MikiSL:PersistentLevel.MikiSL'
+[2019.05.28-08.16.34:272][968]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Developers/Adam/AdamSL.AdamSL:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/Adam/AdamSL.AdamSL:PersistentLevel.AdamSL' with GeneratedClass '/Game/Developers/Adam/AdamSL.AdamSL_C' with ClassGeneratedBy '/Game/Developers/Adam/AdamSL.AdamSL:PersistentLevel.AdamSL'
+[2019.05.28-08.16.34:272][968]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Developers/miki/Temp_01.Temp_01:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/miki/Temp_01.Temp_01:PersistentLevel.Temp_01' with GeneratedClass '/Game/Developers/miki/Temp_01.Temp_01_C' with ClassGeneratedBy '/Game/Developers/miki/Temp_01.Temp_01:PersistentLevel.Temp_01'
+[2019.05.28-08.16.34:272][968]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Developers/miki/Temp_02.Temp_02:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/miki/Temp_02.Temp_02:PersistentLevel.Temp_02' with GeneratedClass '/Game/Developers/miki/Temp_02.Temp_02_C' with ClassGeneratedBy '/Game/Developers/miki/Temp_02.Temp_02:PersistentLevel.Temp_02'
+[2019.05.28-08.16.34:272][968]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Developers/miki/Gibson.Gibson:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/miki/Gibson.Gibson:PersistentLevel.Gibson' with GeneratedClass '/Game/Developers/miki/Gibson.Gibson_C' with ClassGeneratedBy '/Game/Developers/miki/Gibson.Gibson:PersistentLevel.Gibson'
+[2019.05.28-08.16.34:295][968]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.28-08.16.34:299][968]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2019.05.28-08.16.34:339][970]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2019.05.28-08.24.04:354][363]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2019.05.28-08.24.04:354][363]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Developers/miki/Default' took 0.022
+[2019.05.28-08.27.11:057][920]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{c77ad65e-a2b7-4233-a858-edca49da27fa} was removed. Shutting down audio device.
+[2019.05.28-08.27.11:057][920]LogInit: XAudio2 using 'Auriculares (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.28-08.27.12:086][923]LogInit: XAudio2 using 'Altavoces (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.28-08.34.04:963][159]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2019.05.28-08.34.04:963][159]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Developers/miki/Default' took 0.024
+[2019.05.28-08.37.04:723][698]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.28-08.44.05:662][350]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2019.05.28-08.44.05:663][350]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Developers/miki/Default' took 0.022
+[2019.05.28-08.54.06:286][142]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2019.05.28-08.54.06:286][142]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Developers/miki/Default' took 0.022
+[2019.05.28-09.04.06:939][934]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2019.05.28-09.04.06:939][934]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Developers/miki/Default' took 0.020
+[2019.05.28-09.14.07:593][726]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2019.05.28-09.14.07:593][726]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Developers/miki/Default' took 0.020
+[2019.05.28-09.24.08:249][518]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2019.05.28-09.24.08:249][518]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Developers/miki/Default' took 0.020
+[2019.05.28-09.34.08:854][310]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2019.05.28-09.34.08:854][310]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Developers/miki/Default' took 0.020
+[2019.05.28-09.44.09:510][102]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2019.05.28-09.44.09:510][102]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Developers/miki/Default' took 0.021
+[2019.05.28-09.54.10:130][894]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2019.05.28-09.54.10:130][894]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Developers/miki/Default' took 0.020
+[2019.05.28-10.04.10:735][686]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2019.05.28-10.04.10:735][686]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Developers/miki/Default' took 0.020
+[2019.05.28-10.14.11:357][478]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2019.05.28-10.14.11:358][478]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Developers/miki/Default' took 0.022
+[2019.05.28-10.24.11:926][270]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2019.05.28-10.24.11:926][270]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Developers/miki/Default' took 0.020
+[2019.05.28-10.28.00:508][952]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{c77ad65e-a2b7-4233-a858-edca49da27fa} was removed. Shutting down audio device.
+[2019.05.28-10.28.00:508][952]LogInit: XAudio2 using 'Auriculares (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.28-10.28.01:539][955]LogInit: XAudio2 using 'Altavoces (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.28-10.34.12:533][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2019.05.28-10.34.12:533][ 62]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Developers/miki/Default' took 0.020
+[2019.05.28-10.44.13:136][854]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2019.05.28-10.44.13:136][854]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Developers/miki/Default' took 0.019
+[2019.05.28-10.54.13:775][646]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2019.05.28-10.54.13:775][646]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Developers/miki/Default' took 0.021
+[2019.05.28-11.04.14:430][438]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2019.05.28-11.04.14:430][438]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Developers/miki/Default' took 0.021
+[2019.05.28-11.14.14:985][230]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2019.05.28-11.14.14:985][230]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Developers/miki/Default' took 0.020
+[2019.05.28-11.24.15:657][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2019.05.28-11.24.15:657][ 22]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Developers/miki/Default' took 0.020
+[2019.05.28-11.34.16:329][814]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2019.05.28-11.34.16:329][814]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Developers/miki/Default' took 0.021
+[2019.05.28-11.44.16:968][606]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2019.05.28-11.44.16:968][606]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Developers/miki/Default' took 0.022
+[2019.05.28-11.54.17:589][398]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2019.05.28-11.54.17:590][398]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Developers/miki/Default' took 0.022
+[2019.05.28-12.04.18:229][190]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2019.05.28-12.04.18:229][190]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Developers/miki/Default' took 0.022
+[2019.05.28-12.14.18:815][982]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2019.05.28-12.14.18:815][982]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Developers/miki/Default' took 0.021
+[2019.05.28-12.24.19:402][774]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2019.05.28-12.24.19:402][774]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Developers/miki/Default' took 0.020
+[2019.05.28-12.34.20:006][566]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2019.05.28-12.34.20:006][566]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Developers/miki/Default' took 0.019
+[2019.05.28-12.44.20:630][358]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2019.05.28-12.44.20:630][358]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Developers/miki/Default' took 0.022
+[2019.05.28-12.54.21:256][150]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2019.05.28-12.54.21:257][150]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Developers/miki/Default' took 0.025
+[2019.05.28-13.04.21:857][942]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2019.05.28-13.04.21:858][942]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Developers/miki/Default' took 0.023
+[2019.05.28-13.14.22:409][734]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2019.05.28-13.14.22:409][734]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Developers/miki/Default' took 0.021
+[2019.05.28-13.24.22:964][526]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2019.05.28-13.24.22:965][526]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Developers/miki/Default' took 0.021
+[2019.05.28-13.32.01:429][894]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{c77ad65e-a2b7-4233-a858-edca49da27fa} was removed. Shutting down audio device.
+[2019.05.28-13.32.01:429][894]LogInit: XAudio2 using 'Auriculares (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.28-13.32.02:738][898]LogInit: XAudio2 using 'Altavoces (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.28-13.34.23:521][318]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2019.05.28-13.34.23:521][318]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Developers/miki/Default' took 0.022
+[2019.05.28-13.44.24:140][110]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2019.05.28-13.44.24:140][110]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Developers/miki/Default' took 0.020
+[2019.05.28-13.54.24:782][902]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2019.05.28-13.54.24:782][902]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Developers/miki/Default' took 0.022
+[2019.05.28-14.04.25:367][694]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2019.05.28-14.04.25:367][694]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Developers/miki/Default' took 0.020
+[2019.05.28-14.07.02:552][163]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{c77ad65e-a2b7-4233-a858-edca49da27fa} was removed. Shutting down audio device.
+[2019.05.28-14.07.02:552][163]LogInit: XAudio2 using 'Auriculares (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.28-14.07.03:572][166]LogInit: XAudio2 using 'Altavoces (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.28-14.13.37:396][341]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{c77ad65e-a2b7-4233-a858-edca49da27fa} was removed. Shutting down audio device.
+[2019.05.28-14.13.37:396][341]LogInit: XAudio2 using 'Auriculares (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.28-14.13.38:742][345]LogInit: XAudio2 using 'Altavoces (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.28-14.14.26:007][486]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2019.05.28-14.14.26:007][486]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Developers/miki/Default' took 0.022
+[2019.05.28-14.24.26:617][278]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2019.05.28-14.24.26:617][278]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Developers/miki/Default' took 0.026
+[2019.05.28-14.34.27:252][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2019.05.28-14.34.27:252][ 70]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Developers/miki/Default' took 0.024
+[2019.05.28-14.36.52:700][505]LogHttp: Warning: 0000000071CEF380: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.05.28-14.36.52:700][505]LogHttp: Warning: 0000000071CEF380: libcurl info message cache 0 (Connection 202 seems to be dead!)
+[2019.05.28-14.36.52:700][505]LogHttp: Warning: 0000000071CEF380: libcurl info message cache 1 (Closing connection 202)
+[2019.05.28-14.36.52:700][505]LogHttp: Warning: 0000000071CEF380: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.05.28-14.36.52:700][505]LogHttp: Warning: 0000000071CEF380: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.05.28-14.36.52:700][505]LogHttp: Warning: 0000000071CEF380: libcurl info message cache 4 (Closing connection 203)
+[2019.05.28-14.36.53:035][506]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B254671FB-450F-CD3C-1434-CE94977234B1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.1-6063286%2B%2B%2BUE4%2BRelease-4.22&UserID=ffccb74c4d5d6b80711c1ba3e8beea39%7C515bd2677bef470e89637780ff333106%7C5f73ccf3-b65c-43de-b49e-d0c9c20d3c76&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.05.28-14.44.27:954][862]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2019.05.28-14.44.27:954][862]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Developers/miki/Default' took 0.021
+[2019.05.28-14.54.28:627][654]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2019.05.28-14.54.28:627][654]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Developers/miki/Default' took 0.023
+[2019.05.28-15.04.29:284][446]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2019.05.28-15.04.29:284][446]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Developers/miki/Default' took 0.026
+[2019.05.28-15.14.29:922][238]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2019.05.28-15.14.29:922][238]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Developers/miki/Default' took 0.023
+[2019.05.29-03.19.20:112][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:112][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:112][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:112][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:112][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:112][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:112][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:112][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:112][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:113][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:113][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:113][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:113][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:113][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:113][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:113][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:113][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:113][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:113][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:113][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:113][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:113][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:113][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:113][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:113][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:113][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:113][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:113][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:113][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:113][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:113][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:113][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:113][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:113][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:113][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:113][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:113][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:113][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:113][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:113][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:113][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:113][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:113][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:114][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:114][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:114][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:114][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:114][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:114][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:114][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:114][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:114][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:114][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:114][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:114][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:114][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:114][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:114][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:114][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:114][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:114][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:114][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:114][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:114][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:114][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:114][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:114][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:114][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:114][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:114][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:114][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:114][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:114][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:114][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:114][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:114][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:114][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:114][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:114][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:115][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:115][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:115][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:115][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:115][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:115][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:115][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:115][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:115][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:115][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:115][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:115][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:115][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:115][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:115][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:115][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:115][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:115][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:115][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:115][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:115][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:115][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:115][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:115][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:115][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:115][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:115][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:115][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:115][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:115][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:115][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:115][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:115][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:115][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:115][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:115][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:115][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:115][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:115][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:115][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:116][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:116][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:116][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:116][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:116][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:116][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:116][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:116][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:116][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:116][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:116][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:116][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:116][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:116][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:116][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:116][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:116][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:116][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:116][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:116][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:116][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:116][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:116][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:116][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:116][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:116][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:116][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:116][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:116][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:116][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:116][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:116][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:116][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:116][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:116][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:116][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:116][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:116][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:116][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:117][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:117][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:117][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:117][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:117][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:117][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:117][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:117][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:117][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:117][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:117][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:117][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:117][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:117][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:117][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:117][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:117][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:117][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:117][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:117][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:117][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:117][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:117][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:117][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:117][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:117][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:117][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:117][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:117][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:117][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:117][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:117][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:117][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:117][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:117][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:117][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:117][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:117][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:117][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:117][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:117][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:117][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:117][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:118][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:118][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:118][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:118][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:118][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:118][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:118][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:118][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:118][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:118][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:118][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:118][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:118][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:118][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:118][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:118][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:118][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:118][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:118][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:118][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:118][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:118][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:118][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:118][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:118][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:118][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:118][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:118][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:118][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:118][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:118][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:118][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:118][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:118][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:118][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:118][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:118][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:118][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:118][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:118][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:118][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:118][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:118][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:118][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:118][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:118][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:118][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:118][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:118][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:118][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:118][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:118][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:118][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:118][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:118][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:119][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:119][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:119][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:119][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:119][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:119][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:119][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:119][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:119][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:119][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:119][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:119][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:119][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:119][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:119][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:119][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:119][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:119][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:119][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:119][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:119][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:119][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:119][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:119][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:119][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:119][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:119][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:119][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:119][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:119][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:119][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:119][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:119][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:119][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:119][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:119][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:119][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:119][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:119][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:119][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:119][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:119][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:119][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:119][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:119][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:119][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:119][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:119][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:119][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:119][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:119][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:119][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:119][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:119][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:119][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:119][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:119][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:119][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:119][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:119][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:120][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:120][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:120][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:120][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:120][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:120][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:120][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:120][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:120][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:120][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:120][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:120][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:120][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:120][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:120][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:120][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:120][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:120][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:120][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:120][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:120][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:120][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:120][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:120][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:120][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:120][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:120][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:120][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:120][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:120][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:120][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:120][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:120][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:120][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:120][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:120][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:120][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:120][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:120][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:120][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:120][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:120][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:120][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:120][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:120][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:120][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:120][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:120][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:120][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:120][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:120][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:120][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:120][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:120][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:120][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:120][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:120][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:120][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:120][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:120][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:120][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:120][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:120][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:120][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:120][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:120][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:120][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:120][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:120][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:120][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:120][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:120][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:120][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:120][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:120][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:121][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:121][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:121][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:121][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:121][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:121][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:121][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:121][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:121][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:121][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:121][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:121][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:121][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:121][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:121][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:121][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:121][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:121][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:121][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:121][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:121][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:121][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:121][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:121][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:121][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:121][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:121][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:121][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:121][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:121][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:121][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:121][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:121][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:121][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:121][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:121][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:121][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:121][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:121][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:121][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:122][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:122][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:122][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:122][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:122][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:122][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:122][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:122][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:122][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:122][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:122][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:122][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:122][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:122][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:122][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:122][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:122][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:122][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:122][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:122][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:122][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:122][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:122][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:122][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:122][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:122][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:122][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:122][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:122][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:122][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:122][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:122][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:122][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:122][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:122][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:122][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:122][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:122][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:122][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:122][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:122][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:122][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:122][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:122][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:122][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:122][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:122][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:122][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:122][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:123][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:123][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:123][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:123][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:123][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:123][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:123][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:123][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:123][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:123][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:123][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:123][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:123][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:123][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:123][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:123][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:123][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:123][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:123][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:123][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:123][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:123][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:123][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:123][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:123][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:123][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:123][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:123][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:123][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:123][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:123][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:123][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:123][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:123][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:123][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:123][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:123][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:123][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:123][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:123][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:123][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:123][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:123][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:123][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:123][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:124][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:124][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:124][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:124][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:124][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:124][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:124][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:124][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:124][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:124][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:124][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:124][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:124][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:124][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:124][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:124][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:124][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:124][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:124][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:124][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:124][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:124][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:124][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:124][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:124][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:124][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:124][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:124][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:124][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:124][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:124][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:124][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:124][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:124][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:124][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:124][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:124][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:124][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:124][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:124][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:124][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:124][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:124][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:124][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:124][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:124][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:124][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:124][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:124][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:124][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:124][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:124][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:124][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:124][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:124][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:124][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:124][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:124][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:124][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:124][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:124][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:124][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:124][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:124][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:124][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:124][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:124][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:124][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:124][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:124][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:125][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:125][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:125][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:125][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:125][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:125][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:125][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:125][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:125][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:125][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:125][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:125][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:125][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:125][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:125][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:125][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:125][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:125][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:125][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:125][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:125][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:125][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:125][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:125][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:125][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:125][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:125][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:125][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:125][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:125][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:125][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:125][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:125][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:125][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:125][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:125][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:125][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:125][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:125][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:125][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:125][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:125][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:125][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:125][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:125][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:125][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:125][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:125][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:125][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:125][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:125][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:125][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:125][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:125][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:125][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:125][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:125][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:125][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:125][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:125][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:125][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:125][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:125][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:125][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:125][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:125][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:125][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:125][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:125][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:125][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:125][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:125][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:125][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:125][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:125][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:125][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:125][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:125][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:125][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:125][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:125][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:125][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:126][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:126][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:126][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:126][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:126][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:126][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:126][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:126][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:126][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:126][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.014 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:126][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.014 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:126][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.014 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:126][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.014 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:126][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.014 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:126][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.014 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:126][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.014 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:126][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.014 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:126][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.014 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:126][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.014 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:126][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.014 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:126][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.014 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:126][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.014 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:126][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.014 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:126][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.014 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:126][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.014 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:126][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.014 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:126][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.014 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:126][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.014 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:126][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.014 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:126][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.014 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:126][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.014 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:126][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.014 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:126][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.014 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:126][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.014 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:126][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.014 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:126][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.014 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:126][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.014 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:126][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.014 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:126][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.014 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:126][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.014 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:126][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.014 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:126][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.014 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:126][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.014 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:126][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.014 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:126][522]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.014 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.20:438][524]LogHttp: Warning: 000000009F74D300: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.05.29-03.19.20:438][524]LogHttp: Warning: 000000009F74D300: libcurl info message cache 0 (Connection 219 seems to be dead!)
+[2019.05.29-03.19.20:438][524]LogHttp: Warning: 000000009F74D300: libcurl info message cache 1 (Closing connection 219)
+[2019.05.29-03.19.20:438][524]LogHttp: Warning: 000000009F74D300: libcurl info message cache 2 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.05.29-03.19.20:438][524]LogHttp: Warning: 000000009F74D300: libcurl info message cache 3 (Closing connection 220)
+[2019.05.29-03.19.20:438][524]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B254671FB-450F-CD3C-1434-CE94977234B1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.1-6063286%2B%2B%2BUE4%2BRelease-4.22&UserID=ffccb74c4d5d6b80711c1ba3e8beea39%7C515bd2677bef470e89637780ff333106%7C5f73ccf3-b65c-43de-b49e-d0c9c20d3c76&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.05.29-03.19.28:975][548]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2019.05.29-03.19.30:393][551]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2019.05.29-03.19.30:393][551]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Developers/miki/Default' took 0.032
+[2019.05.29-03.19.41:355][584]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (21.243 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-03.19.51:048][612]LogInit: XAudio2 using 'Altavoces (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.29-03.19.58:417][634]LogInit: XAudio2 using 'Altavoces (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
