@@ -1697,3 +1697,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.06.18-08.43.43:324][659]LogFileHelpers: Saving map 'MikiSL' took 0.121
 [2019.06.18-08.43.43:327][659]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developers/miki/water_Inst" FILE="../../../../../01/CactusClub/Content/Developers/miki/water_Inst.uasset" SILENT=true
 [2019.06.18-08.43.43:332][659]LogSavePackage: Moving '../../../../../01/CactusClub/Saved/water_Inst5BEC86C04ABD893651168FA85B0E3A21.tmp' to '../../../../../01/CactusClub/Content/Developers/miki/water_Inst.uasset'
+[2019.06.18-08.44.08:682][790]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.18-08.44.11:418][948]LogSlate: FSceneViewport::OnFocusLost() reason 2
