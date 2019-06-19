@@ -1699,3 +1699,463 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.06.18-08.43.43:332][659]LogSavePackage: Moving '../../../../../01/CactusClub/Saved/water_Inst5BEC86C04ABD893651168FA85B0E3A21.tmp' to '../../../../../01/CactusClub/Content/Developers/miki/water_Inst.uasset'
 [2019.06.18-08.44.08:682][790]LogSlate: FSceneViewport::OnFocusLost() reason 2
 [2019.06.18-08.44.11:418][948]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.18-08.46.09:767][962]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-08.46.14:265][219]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.18-08.46.14:271][219]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Developers/miki/Default.Default:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/miki/Default.Default:PersistentLevel.Default' with GeneratedClass '/Game/Developers/miki/Default.Default_C' with ClassGeneratedBy '/Game/Developers/miki/Default.Default:PersistentLevel.Default'
+[2019.06.18-08.46.14:272][219]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Developers/Shinya/ShinyaSL.ShinyaSL:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/Shinya/ShinyaSL.ShinyaSL:PersistentLevel.ShinyaSL' with GeneratedClass '/Game/Developers/Shinya/ShinyaSL.ShinyaSL_C' with ClassGeneratedBy '/Game/Developers/Shinya/ShinyaSL.ShinyaSL:PersistentLevel.ShinyaSL'
+[2019.06.18-08.46.14:272][219]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Developers/miki/MikiSL.MikiSL:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/miki/MikiSL.MikiSL:PersistentLevel.MikiSL' with GeneratedClass '/Game/Developers/miki/MikiSL.MikiSL_C' with ClassGeneratedBy '/Game/Developers/miki/MikiSL.MikiSL:PersistentLevel.MikiSL'
+[2019.06.18-08.46.14:273][219]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Developers/Adam/AdamSL.AdamSL:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/Adam/AdamSL.AdamSL:PersistentLevel.AdamSL' with GeneratedClass '/Game/Developers/Adam/AdamSL.AdamSL_C' with ClassGeneratedBy '/Game/Developers/Adam/AdamSL.AdamSL:PersistentLevel.AdamSL'
+[2019.06.18-08.46.14:273][219]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Developers/miki/Temp_01.Temp_01:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/miki/Temp_01.Temp_01:PersistentLevel.Temp_01' with GeneratedClass '/Game/Developers/miki/Temp_01.Temp_01_C' with ClassGeneratedBy '/Game/Developers/miki/Temp_01.Temp_01:PersistentLevel.Temp_01'
+[2019.06.18-08.46.14:274][219]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Developers/miki/Temp_02.Temp_02:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/miki/Temp_02.Temp_02:PersistentLevel.Temp_02' with GeneratedClass '/Game/Developers/miki/Temp_02.Temp_02_C' with ClassGeneratedBy '/Game/Developers/miki/Temp_02.Temp_02:PersistentLevel.Temp_02'
+[2019.06.18-08.46.14:274][219]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.18-08.46.14:274][219]LogHMD: Initializing OVRPlugin session
+[2019.06.18-08.46.14:294][219]PIE: New page: PIE session: Default (Jun 17, 2019, 6:46:14 PM)
+[2019.06.18-08.46.14:297][219]LogPlayLevel: Creating play world package: /Game/Developers/miki/UEDPIE_0_Default
+[2019.06.18-08.46.14:311][219]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013048s)
+[2019.06.18-08.46.14:312][219]LogAIModule: Creating AISystem for world Default
+[2019.06.18-08.46.14:312][219]LogPlayLevel: PIE: World Init took: (0.001071s)
+[2019.06.18-08.46.14:312][219]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Developers/miki/Default.Default to /Game/Developers/miki/UEDPIE_0_Default.Default (0.014871s)
+[2019.06.18-08.46.14:335][219]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2019.06.18-08.46.14:342][219]LogInit: XAudio2 using 'Altavoces (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.18-08.46.14:350][219]LogInit: FAudioDevice initialized.
+[2019.06.18-08.46.14:375][219]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.18-08.46.14:379][219]LogWorld: Bringing World /Game/Developers/miki/UEDPIE_0_Default.Default up for play (max tick rate 0) at 2019.06.18-01.46.14
+[2019.06.18-08.46.14:379][219]LogWorld: Bringing up level for play took: 0.003770
+[2019.06.18-08.46.14:392][219]PIE: Play in editor start time for /Game/Developers/miki/UEDPIE_0_Default 0.954
+[2019.06.18-08.46.14:392][219]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Developers/miki/Default.Default:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/miki/Default.Default:PersistentLevel.Default' with GeneratedClass '/Game/Developers/miki/Default.Default_C' with ClassGeneratedBy '/Game/Developers/miki/Default.Default:PersistentLevel.Default'
+[2019.06.18-08.46.14:393][219]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Developers/Shinya/ShinyaSL.ShinyaSL:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/Shinya/ShinyaSL.ShinyaSL:PersistentLevel.ShinyaSL' with GeneratedClass '/Game/Developers/Shinya/ShinyaSL.ShinyaSL_C' with ClassGeneratedBy '/Game/Developers/Shinya/ShinyaSL.ShinyaSL:PersistentLevel.ShinyaSL'
+[2019.06.18-08.46.14:393][219]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Developers/miki/MikiSL.MikiSL:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/miki/MikiSL.MikiSL:PersistentLevel.MikiSL' with GeneratedClass '/Game/Developers/miki/MikiSL.MikiSL_C' with ClassGeneratedBy '/Game/Developers/miki/MikiSL.MikiSL:PersistentLevel.MikiSL'
+[2019.06.18-08.46.14:394][219]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Developers/Adam/AdamSL.AdamSL:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/Adam/AdamSL.AdamSL:PersistentLevel.AdamSL' with GeneratedClass '/Game/Developers/Adam/AdamSL.AdamSL_C' with ClassGeneratedBy '/Game/Developers/Adam/AdamSL.AdamSL:PersistentLevel.AdamSL'
+[2019.06.18-08.46.14:394][219]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Developers/miki/Temp_01.Temp_01:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/miki/Temp_01.Temp_01:PersistentLevel.Temp_01' with GeneratedClass '/Game/Developers/miki/Temp_01.Temp_01_C' with ClassGeneratedBy '/Game/Developers/miki/Temp_01.Temp_01:PersistentLevel.Temp_01'
+[2019.06.18-08.46.14:394][219]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Developers/miki/Temp_02.Temp_02:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/miki/Temp_02.Temp_02:PersistentLevel.Temp_02' with GeneratedClass '/Game/Developers/miki/Temp_02.Temp_02_C' with ClassGeneratedBy '/Game/Developers/miki/Temp_02.Temp_02:PersistentLevel.Temp_02'
+[2019.06.18-08.46.50:059][ 61]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Developers/miki/Default.Default:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/miki/Default.Default:PersistentLevel.Default' with GeneratedClass '/Game/Developers/miki/Default.Default_C' with ClassGeneratedBy '/Game/Developers/miki/Default.Default:PersistentLevel.Default'
+[2019.06.18-08.46.50:060][ 61]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Developers/Shinya/ShinyaSL.ShinyaSL:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/Shinya/ShinyaSL.ShinyaSL:PersistentLevel.ShinyaSL' with GeneratedClass '/Game/Developers/Shinya/ShinyaSL.ShinyaSL_C' with ClassGeneratedBy '/Game/Developers/Shinya/ShinyaSL.ShinyaSL:PersistentLevel.ShinyaSL'
+[2019.06.18-08.46.50:060][ 61]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Developers/miki/MikiSL.MikiSL:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/miki/MikiSL.MikiSL:PersistentLevel.MikiSL' with GeneratedClass '/Game/Developers/miki/MikiSL.MikiSL_C' with ClassGeneratedBy '/Game/Developers/miki/MikiSL.MikiSL:PersistentLevel.MikiSL'
+[2019.06.18-08.46.50:061][ 61]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Developers/Adam/AdamSL.AdamSL:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/Adam/AdamSL.AdamSL:PersistentLevel.AdamSL' with GeneratedClass '/Game/Developers/Adam/AdamSL.AdamSL_C' with ClassGeneratedBy '/Game/Developers/Adam/AdamSL.AdamSL:PersistentLevel.AdamSL'
+[2019.06.18-08.46.50:061][ 61]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Developers/miki/Temp_01.Temp_01:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/miki/Temp_01.Temp_01:PersistentLevel.Temp_01' with GeneratedClass '/Game/Developers/miki/Temp_01.Temp_01_C' with ClassGeneratedBy '/Game/Developers/miki/Temp_01.Temp_01:PersistentLevel.Temp_01'
+[2019.06.18-08.46.50:061][ 61]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Developers/miki/Temp_02.Temp_02:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/miki/Temp_02.Temp_02:PersistentLevel.Temp_02' with GeneratedClass '/Game/Developers/miki/Temp_02.Temp_02_C' with ClassGeneratedBy '/Game/Developers/miki/Temp_02.Temp_02:PersistentLevel.Temp_02'
+[2019.06.18-08.46.50:068][ 61]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.18-08.46.50:092][ 61]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.18-08.46.50:093][ 61]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Developers/miki/Default.Default:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/miki/Default.Default:PersistentLevel.Default' with GeneratedClass '/Game/Developers/miki/Default.Default_C' with ClassGeneratedBy '/Game/Developers/miki/Default.Default:PersistentLevel.Default'
+[2019.06.18-08.46.50:093][ 61]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Developers/Shinya/ShinyaSL.ShinyaSL:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/Shinya/ShinyaSL.ShinyaSL:PersistentLevel.ShinyaSL' with GeneratedClass '/Game/Developers/Shinya/ShinyaSL.ShinyaSL_C' with ClassGeneratedBy '/Game/Developers/Shinya/ShinyaSL.ShinyaSL:PersistentLevel.ShinyaSL'
+[2019.06.18-08.46.50:094][ 61]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Developers/miki/MikiSL.MikiSL:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/miki/MikiSL.MikiSL:PersistentLevel.MikiSL' with GeneratedClass '/Game/Developers/miki/MikiSL.MikiSL_C' with ClassGeneratedBy '/Game/Developers/miki/MikiSL.MikiSL:PersistentLevel.MikiSL'
+[2019.06.18-08.46.50:094][ 61]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Developers/Adam/AdamSL.AdamSL:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/Adam/AdamSL.AdamSL:PersistentLevel.AdamSL' with GeneratedClass '/Game/Developers/Adam/AdamSL.AdamSL_C' with ClassGeneratedBy '/Game/Developers/Adam/AdamSL.AdamSL:PersistentLevel.AdamSL'
+[2019.06.18-08.46.50:094][ 61]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Developers/miki/Temp_01.Temp_01:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/miki/Temp_01.Temp_01:PersistentLevel.Temp_01' with GeneratedClass '/Game/Developers/miki/Temp_01.Temp_01_C' with ClassGeneratedBy '/Game/Developers/miki/Temp_01.Temp_01:PersistentLevel.Temp_01'
+[2019.06.18-08.46.50:095][ 61]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Developers/miki/Temp_02.Temp_02:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/miki/Temp_02.Temp_02:PersistentLevel.Temp_02' with GeneratedClass '/Game/Developers/miki/Temp_02.Temp_02_C' with ClassGeneratedBy '/Game/Developers/miki/Temp_02.Temp_02:PersistentLevel.Temp_02'
+[2019.06.18-08.46.50:120][ 61]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.18-08.46.50:123][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2019.06.18-08.46.50:200][ 63]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.06.18-08.46.52:437][237]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.18-08.46.52:444][237]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Developers/miki/Default.Default:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/miki/Default.Default:PersistentLevel.Default' with GeneratedClass '/Game/Developers/miki/Default.Default_C' with ClassGeneratedBy '/Game/Developers/miki/Default.Default:PersistentLevel.Default'
+[2019.06.18-08.46.52:445][237]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Developers/Shinya/ShinyaSL.ShinyaSL:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/Shinya/ShinyaSL.ShinyaSL:PersistentLevel.ShinyaSL' with GeneratedClass '/Game/Developers/Shinya/ShinyaSL.ShinyaSL_C' with ClassGeneratedBy '/Game/Developers/Shinya/ShinyaSL.ShinyaSL:PersistentLevel.ShinyaSL'
+[2019.06.18-08.46.52:445][237]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Developers/miki/MikiSL.MikiSL:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/miki/MikiSL.MikiSL:PersistentLevel.MikiSL' with GeneratedClass '/Game/Developers/miki/MikiSL.MikiSL_C' with ClassGeneratedBy '/Game/Developers/miki/MikiSL.MikiSL:PersistentLevel.MikiSL'
+[2019.06.18-08.46.52:446][237]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Developers/Adam/AdamSL.AdamSL:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/Adam/AdamSL.AdamSL:PersistentLevel.AdamSL' with GeneratedClass '/Game/Developers/Adam/AdamSL.AdamSL_C' with ClassGeneratedBy '/Game/Developers/Adam/AdamSL.AdamSL:PersistentLevel.AdamSL'
+[2019.06.18-08.46.52:446][237]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Developers/miki/Temp_01.Temp_01:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/miki/Temp_01.Temp_01:PersistentLevel.Temp_01' with GeneratedClass '/Game/Developers/miki/Temp_01.Temp_01_C' with ClassGeneratedBy '/Game/Developers/miki/Temp_01.Temp_01:PersistentLevel.Temp_01'
+[2019.06.18-08.46.52:447][237]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Developers/miki/Temp_02.Temp_02:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/miki/Temp_02.Temp_02:PersistentLevel.Temp_02' with GeneratedClass '/Game/Developers/miki/Temp_02.Temp_02_C' with ClassGeneratedBy '/Game/Developers/miki/Temp_02.Temp_02:PersistentLevel.Temp_02'
+[2019.06.18-08.46.52:447][237]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.18-08.46.52:447][237]LogHMD: Initializing OVRPlugin session
+[2019.06.18-08.46.52:463][237]PIE: New page: PIE session: Default (Jun 17, 2019, 6:46:52 PM)
+[2019.06.18-08.46.52:466][237]LogPlayLevel: Creating play world package: /Game/Developers/miki/UEDPIE_0_Default
+[2019.06.18-08.46.52:479][237]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013470s)
+[2019.06.18-08.46.52:480][237]LogAIModule: Creating AISystem for world Default
+[2019.06.18-08.46.52:480][237]LogPlayLevel: PIE: World Init took: (0.000601s)
+[2019.06.18-08.46.52:480][237]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Developers/miki/Default.Default to /Game/Developers/miki/UEDPIE_0_Default.Default (0.014549s)
+[2019.06.18-08.46.52:502][237]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2019.06.18-08.46.52:510][237]LogInit: XAudio2 using 'Altavoces (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.18-08.46.52:518][237]LogInit: FAudioDevice initialized.
+[2019.06.18-08.46.52:519][237]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.18-08.46.52:548][237]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.18-08.46.52:551][237]LogWorld: Bringing World /Game/Developers/miki/UEDPIE_0_Default.Default up for play (max tick rate 0) at 2019.06.18-01.46.52
+[2019.06.18-08.46.52:552][237]LogWorld: Bringing up level for play took: 0.003804
+[2019.06.18-08.46.52:565][237]PIE: Play in editor start time for /Game/Developers/miki/UEDPIE_0_Default -0.874
+[2019.06.18-08.46.52:565][237]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Developers/miki/Default.Default:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/miki/Default.Default:PersistentLevel.Default' with GeneratedClass '/Game/Developers/miki/Default.Default_C' with ClassGeneratedBy '/Game/Developers/miki/Default.Default:PersistentLevel.Default'
+[2019.06.18-08.46.52:565][237]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Developers/Shinya/ShinyaSL.ShinyaSL:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/Shinya/ShinyaSL.ShinyaSL:PersistentLevel.ShinyaSL' with GeneratedClass '/Game/Developers/Shinya/ShinyaSL.ShinyaSL_C' with ClassGeneratedBy '/Game/Developers/Shinya/ShinyaSL.ShinyaSL:PersistentLevel.ShinyaSL'
+[2019.06.18-08.46.52:566][237]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Developers/miki/MikiSL.MikiSL:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/miki/MikiSL.MikiSL:PersistentLevel.MikiSL' with GeneratedClass '/Game/Developers/miki/MikiSL.MikiSL_C' with ClassGeneratedBy '/Game/Developers/miki/MikiSL.MikiSL:PersistentLevel.MikiSL'
+[2019.06.18-08.46.52:566][237]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Developers/Adam/AdamSL.AdamSL:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/Adam/AdamSL.AdamSL:PersistentLevel.AdamSL' with GeneratedClass '/Game/Developers/Adam/AdamSL.AdamSL_C' with ClassGeneratedBy '/Game/Developers/Adam/AdamSL.AdamSL:PersistentLevel.AdamSL'
+[2019.06.18-08.46.52:567][237]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Developers/miki/Temp_01.Temp_01:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/miki/Temp_01.Temp_01:PersistentLevel.Temp_01' with GeneratedClass '/Game/Developers/miki/Temp_01.Temp_01_C' with ClassGeneratedBy '/Game/Developers/miki/Temp_01.Temp_01:PersistentLevel.Temp_01'
+[2019.06.18-08.46.52:567][237]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Developers/miki/Temp_02.Temp_02:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/miki/Temp_02.Temp_02:PersistentLevel.Temp_02' with GeneratedClass '/Game/Developers/miki/Temp_02.Temp_02_C' with ClassGeneratedBy '/Game/Developers/miki/Temp_02.Temp_02:PersistentLevel.Temp_02'
+[2019.06.18-08.48.52:345][848]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Developers/miki/Default.Default:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/miki/Default.Default:PersistentLevel.Default' with GeneratedClass '/Game/Developers/miki/Default.Default_C' with ClassGeneratedBy '/Game/Developers/miki/Default.Default:PersistentLevel.Default'
+[2019.06.18-08.48.52:345][848]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Developers/Shinya/ShinyaSL.ShinyaSL:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/Shinya/ShinyaSL.ShinyaSL:PersistentLevel.ShinyaSL' with GeneratedClass '/Game/Developers/Shinya/ShinyaSL.ShinyaSL_C' with ClassGeneratedBy '/Game/Developers/Shinya/ShinyaSL.ShinyaSL:PersistentLevel.ShinyaSL'
+[2019.06.18-08.48.52:346][848]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Developers/miki/MikiSL.MikiSL:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/miki/MikiSL.MikiSL:PersistentLevel.MikiSL' with GeneratedClass '/Game/Developers/miki/MikiSL.MikiSL_C' with ClassGeneratedBy '/Game/Developers/miki/MikiSL.MikiSL:PersistentLevel.MikiSL'
+[2019.06.18-08.48.52:346][848]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Developers/Adam/AdamSL.AdamSL:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/Adam/AdamSL.AdamSL:PersistentLevel.AdamSL' with GeneratedClass '/Game/Developers/Adam/AdamSL.AdamSL_C' with ClassGeneratedBy '/Game/Developers/Adam/AdamSL.AdamSL:PersistentLevel.AdamSL'
+[2019.06.18-08.48.52:347][848]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Developers/miki/Temp_01.Temp_01:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/miki/Temp_01.Temp_01:PersistentLevel.Temp_01' with GeneratedClass '/Game/Developers/miki/Temp_01.Temp_01_C' with ClassGeneratedBy '/Game/Developers/miki/Temp_01.Temp_01:PersistentLevel.Temp_01'
+[2019.06.18-08.48.52:347][848]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Developers/miki/Temp_02.Temp_02:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/miki/Temp_02.Temp_02:PersistentLevel.Temp_02' with GeneratedClass '/Game/Developers/miki/Temp_02.Temp_02_C' with ClassGeneratedBy '/Game/Developers/miki/Temp_02.Temp_02:PersistentLevel.Temp_02'
+[2019.06.18-08.48.52:353][848]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.18-08.48.52:377][848]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.18-08.48.52:378][848]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Developers/miki/Default.Default:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/miki/Default.Default:PersistentLevel.Default' with GeneratedClass '/Game/Developers/miki/Default.Default_C' with ClassGeneratedBy '/Game/Developers/miki/Default.Default:PersistentLevel.Default'
+[2019.06.18-08.48.52:378][848]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Developers/Shinya/ShinyaSL.ShinyaSL:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/Shinya/ShinyaSL.ShinyaSL:PersistentLevel.ShinyaSL' with GeneratedClass '/Game/Developers/Shinya/ShinyaSL.ShinyaSL_C' with ClassGeneratedBy '/Game/Developers/Shinya/ShinyaSL.ShinyaSL:PersistentLevel.ShinyaSL'
+[2019.06.18-08.48.52:379][848]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Developers/miki/MikiSL.MikiSL:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/miki/MikiSL.MikiSL:PersistentLevel.MikiSL' with GeneratedClass '/Game/Developers/miki/MikiSL.MikiSL_C' with ClassGeneratedBy '/Game/Developers/miki/MikiSL.MikiSL:PersistentLevel.MikiSL'
+[2019.06.18-08.48.52:379][848]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Developers/Adam/AdamSL.AdamSL:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/Adam/AdamSL.AdamSL:PersistentLevel.AdamSL' with GeneratedClass '/Game/Developers/Adam/AdamSL.AdamSL_C' with ClassGeneratedBy '/Game/Developers/Adam/AdamSL.AdamSL:PersistentLevel.AdamSL'
+[2019.06.18-08.48.52:379][848]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Developers/miki/Temp_01.Temp_01:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/miki/Temp_01.Temp_01:PersistentLevel.Temp_01' with GeneratedClass '/Game/Developers/miki/Temp_01.Temp_01_C' with ClassGeneratedBy '/Game/Developers/miki/Temp_01.Temp_01:PersistentLevel.Temp_01'
+[2019.06.18-08.48.52:380][848]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Developers/miki/Temp_02.Temp_02:PersistentLevel' has LevelScriptBlueprint '/Game/Developers/miki/Temp_02.Temp_02:PersistentLevel.Temp_02' with GeneratedClass '/Game/Developers/miki/Temp_02.Temp_02_C' with ClassGeneratedBy '/Game/Developers/miki/Temp_02.Temp_02:PersistentLevel.Temp_02'
+[2019.06.18-08.48.52:406][848]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.18-08.48.52:409][848]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2019.06.18-08.48.52:530][850]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.06.18-08.49.09:488][140]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.18-08.49.13:870][308]LogSlate: Window 'Message' being destroyed
+[2019.06.18-08.49.14:270][308]LogMaterial: Display: Missing cached shader map for material water, compiling. 
+[2019.06.18-08.49.14:375][308]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.18-08.49.14:412][308]LogMaterial: Display: Missing cached shader map for material water, compiling. 
+[2019.06.18-08.49.14:450][308]LogMaterial: Display: Missing cached shader map for material water, compiling. 
+[2019.06.18-08.49.14:514][308]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2019.06.18-08.49.14:522][308]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.06.18-08.49.29:402][308]LogShaderCompilers: Display: Shaders left to compile 80
+[2019.06.18-08.49.29:403][308]LogShaderCompilers: Display: Shaders left to compile 70
+[2019.06.18-08.49.29:403][308]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.06.18-08.49.29:403][308]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.06.18-08.49.29:406][308]TextureStreamingBuild: Display: Compiling optional shaders took 14.892 seconds.
+[2019.06.18-08.49.29:435][308]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2019.06.18-08.49.29:471][308]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2019.06.18-08.49.29:478][308]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.18-08.49.31:563][308]LogSlate: Window 'Save Content' being destroyed
+[2019.06.18-08.49.31:583][308]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.18-08.49.46:995][308]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developers/miki/water" FILE="../../../../../01/CactusClub/Content/Developers/miki/water.uasset" SILENT=true
+[2019.06.18-08.49.47:017][308]LogSavePackage: Moving '../../../../../01/CactusClub/Saved/water260527DB41FE0725D2FD9FB1C9ED79FF.tmp' to '../../../../../01/CactusClub/Content/Developers/miki/water.uasset'
+[2019.06.18-08.49.47:225][308]LogSlate: Window 'water_Inst' being destroyed
+[2019.06.18-08.49.47:262][308]LogSlate: Window '' being destroyed
+[2019.06.18-08.49.47:266][308]LogSlate: Window 'Message Log' being destroyed
+[2019.06.18-08.49.47:268][308]LogSlate: Window 'Content Browser' being destroyed
+[2019.06.18-08.49.47:299][308]LogSlate: Window 'CactusClub - Unreal Editor' being destroyed
+[2019.06.18-08.49.47:520][309]Cmd: QUIT_EDITOR
+[2019.06.18-08.49.47:586][309]LogExit: Preparing to exit.
+[2019.06.18-08.49.48:076][309]LogExit: Editor shut down
+[2019.06.18-08.49.48:076][309]LogExit: Transaction tracking system shut down
+[2019.06.18-08.49.48:567][309]LogExit: Object subsystem successfully closed.
+[2019.06.18-08.49.48:610][309]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.06.18-08.49.48:616][309]LogD3D11RHI: Shutdown
+[2019.06.18-08.49.48:616][309]LogD3D11RHI: CleanupD3DDevice
+[2019.06.18-08.49.48:617][309]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.06.18-08.49.48:617][309]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.06.18-08.49.48:617][309]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.06.18-08.49.48:617][309]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.06.18-08.49.48:617][309]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.06.18-08.49.48:617][309]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.06.18-08.49.48:618][309]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.06.18-08.49.48:989][309]LogModuleManager: Shutting down and abandoning module SequencerWidgets (650)
+[2019.06.18-08.49.48:989][309]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (648)
+[2019.06.18-08.49.48:989][309]LogModuleManager: Shutting down and abandoning module Voice (646)
+[2019.06.18-08.49.48:989][309]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (644)
+[2019.06.18-08.49.48:989][309]LogModuleManager: Shutting down and abandoning module AddContentDialog (642)
+[2019.06.18-08.49.49:038][309]LogModuleManager: Shutting down and abandoning module WidgetCarousel (641)
+[2019.06.18-08.49.49:038][309]LogModuleManager: Shutting down and abandoning module EditorWidgets (638)
+[2019.06.18-08.49.49:038][309]LogModuleManager: Shutting down and abandoning module CollectionManager (636)
+[2019.06.18-08.49.49:038][309]LogModuleManager: Shutting down and abandoning module WorldBrowser (634)
+[2019.06.18-08.49.49:038][309]LogModuleManager: Shutting down and abandoning module SceneOutliner (632)
+[2019.06.18-08.49.49:038][309]LogModuleManager: Shutting down and abandoning module StatsViewer (630)
+[2019.06.18-08.49.49:038][309]LogModuleManager: Shutting down and abandoning module FoliageEdit (628)
+[2019.06.18-08.49.49:038][309]LogModuleManager: Shutting down and abandoning module LandscapeEditor (626)
+[2019.06.18-08.49.49:109][309]LogModuleManager: Shutting down and abandoning module MeshPaintMode (624)
+[2019.06.18-08.49.49:109][309]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (622)
+[2019.06.18-08.49.49:109][309]LogModuleManager: Shutting down and abandoning module ActorPickerMode (620)
+[2019.06.18-08.49.49:109][309]LogModuleManager: Shutting down and abandoning module GeometryMode (618)
+[2019.06.18-08.49.49:109][309]LogModuleManager: Shutting down and abandoning module TextureAlignMode (616)
+[2019.06.18-08.49.49:109][309]LogModuleManager: Shutting down and abandoning module BspMode (614)
+[2019.06.18-08.49.49:109][309]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (612)
+[2019.06.18-08.49.49:109][309]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (610)
+[2019.06.18-08.49.49:109][309]LogModuleManager: Shutting down and abandoning module AutomationWorker (608)
+[2019.06.18-08.49.49:109][309]LogModuleManager: Shutting down and abandoning module OculusMR (606)
+[2019.06.18-08.49.49:109][309]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (604)
+[2019.06.18-08.49.49:109][309]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (602)
+[2019.06.18-08.49.49:109][309]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (600)
+[2019.06.18-08.49.49:109][309]LogModuleManager: Shutting down and abandoning module PlacementMode (599)
+[2019.06.18-08.49.49:109][309]LogModuleManager: Shutting down and abandoning module MaterialEditor (598)
+[2019.06.18-08.49.49:109][309]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (594)
+[2019.06.18-08.49.49:109][309]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (592)
+[2019.06.18-08.49.49:109][309]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (590)
+[2019.06.18-08.49.49:109][309]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (588)
+[2019.06.18-08.49.49:109][309]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (586)
+[2019.06.18-08.49.49:109][309]LogModuleManager: Shutting down and abandoning module WebMMedia (584)
+[2019.06.18-08.49.49:109][309]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (582)
+[2019.06.18-08.49.49:109][309]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (580)
+[2019.06.18-08.49.49:109][309]LogModuleManager: Shutting down and abandoning module SequenceRecorder (579)
+[2019.06.18-08.49.49:109][309]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (576)
+[2019.06.18-08.49.49:109][309]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (574)
+[2019.06.18-08.49.49:109][309]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (572)
+[2019.06.18-08.49.49:109][309]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (570)
+[2019.06.18-08.49.49:109][309]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (568)
+[2019.06.18-08.49.49:109][309]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (566)
+[2019.06.18-08.49.49:109][309]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (564)
+[2019.06.18-08.49.49:110][309]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (562)
+[2019.06.18-08.49.49:110][309]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (560)
+[2019.06.18-08.49.49:110][309]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (558)
+[2019.06.18-08.49.49:110][309]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (556)
+[2019.06.18-08.49.49:110][309]LogModuleManager: Shutting down and abandoning module CharacterAI (554)
+[2019.06.18-08.49.49:110][309]LogModuleManager: Shutting down and abandoning module SmartSnapping (552)
+[2019.06.18-08.49.49:110][309]LogModuleManager: Shutting down and abandoning module SessionServices (550)
+[2019.06.18-08.49.49:110][309]LogModuleManager: Shutting down and abandoning module MeshPaint (548)
+[2019.06.18-08.49.49:110][309]LogModuleManager: Shutting down and abandoning module ViewportSnapping (546)
+[2019.06.18-08.49.49:110][309]LogModuleManager: Shutting down and abandoning module ViewportInteraction (544)
+[2019.06.18-08.49.49:110][309]LogModuleManager: Shutting down and abandoning module ClothPainter (542)
+[2019.06.18-08.49.49:133][309]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (541)
+[2019.06.18-08.49.49:166][309]LogModuleManager: Shutting down and abandoning module LogVisualizer (538)
+[2019.06.18-08.49.49:166][309]LogModuleManager: Shutting down and abandoning module IntroTutorials (536)
+[2019.06.18-08.49.49:166][309]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (535)
+[2019.06.18-08.49.49:213][309]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (532)
+[2019.06.18-08.49.49:213][309]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (530)
+[2019.06.18-08.49.49:213][309]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (528)
+[2019.06.18-08.49.49:213][309]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (526)
+[2019.06.18-08.49.49:213][309]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (525)
+[2019.06.18-08.49.49:363][309]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (522)
+[2019.06.18-08.49.49:363][309]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (520)
+[2019.06.18-08.49.49:363][309]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (518)
+[2019.06.18-08.49.49:363][309]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (516)
+[2019.06.18-08.49.49:363][309]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (514)
+[2019.06.18-08.49.49:363][309]LogModuleManager: Shutting down and abandoning module InputBindingEditor (512)
+[2019.06.18-08.49.49:363][309]LogModuleManager: Shutting down and abandoning module MergeActors (510)
+[2019.06.18-08.49.49:363][309]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (508)
+[2019.06.18-08.49.49:363][309]LogModuleManager: Shutting down and abandoning module LocalizationService (507)
+[2019.06.18-08.49.49:363][309]LogModuleManager: Shutting down and abandoning module HardwareTargeting (504)
+[2019.06.18-08.49.49:363][309]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (502)
+[2019.06.18-08.49.49:363][309]LogModuleManager: Shutting down and abandoning module UndoHistory (500)
+[2019.06.18-08.49.49:383][309]LogModuleManager: Shutting down and abandoning module XmlParser (498)
+[2019.06.18-08.49.49:383][309]LogModuleManager: Shutting down and abandoning module Blutility (496)
+[2019.06.18-08.49.49:383][309]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (494)
+[2019.06.18-08.49.49:383][309]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (493)
+[2019.06.18-08.49.49:383][309]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (490)
+[2019.06.18-08.49.49:383][309]LogModuleManager: Shutting down and abandoning module SettingsEditor (488)
+[2019.06.18-08.49.49:383][309]LogModuleManager: Shutting down and abandoning module ProjectLauncher (486)
+[2019.06.18-08.49.49:391][309]LogModuleManager: Shutting down and abandoning module SessionFrontend (484)
+[2019.06.18-08.49.49:391][309]LogModuleManager: Shutting down and abandoning module ProfilerClient (482)
+[2019.06.18-08.49.49:391][309]LogModuleManager: Shutting down and abandoning module DeviceManager (480)
+[2019.06.18-08.49.49:391][309]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (479)
+[2019.06.18-08.49.49:441][309]LogModuleManager: Shutting down and abandoning module AutomationController (476)
+[2019.06.18-08.49.49:441][309]LogModuleManager: Shutting down and abandoning module AutomationWindow (474)
+[2019.06.18-08.49.49:476][309]LogModuleManager: Shutting down and abandoning module Layers (472)
+[2019.06.18-08.49.49:494][309]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (470)
+[2019.06.18-08.49.49:494][309]LogModuleManager: Shutting down and abandoning module DetailCustomizations (468)
+[2019.06.18-08.49.49:494][309]LogModuleManager: Shutting down and abandoning module PackagesDialog (466)
+[2019.06.18-08.49.49:494][309]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (464)
+[2019.06.18-08.49.49:504][309]LogModuleManager: Shutting down and abandoning module Persona (462)
+[2019.06.18-08.49.49:544][309]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (461)
+[2019.06.18-08.49.49:544][309]LogModuleManager: Shutting down and abandoning module AnimGraph (459)
+[2019.06.18-08.49.49:544][309]LogModuleManager: Shutting down and abandoning module Kismet (456)
+[2019.06.18-08.49.49:560][309]LogModuleManager: Shutting down and abandoning module GraphEditor (454)
+[2019.06.18-08.49.49:560][309]LogModuleManager: Shutting down and abandoning module ClassViewer (452)
+[2019.06.18-08.49.49:560][309]LogModuleManager: Shutting down and abandoning module Toolbox (450)
+[2019.06.18-08.49.49:560][309]LogModuleManager: Shutting down and abandoning module ModuleUI (448)
+[2019.06.18-08.49.49:560][309]LogModuleManager: Shutting down and abandoning module MovieSceneTools (446)
+[2019.06.18-08.49.49:561][309]LogModuleManager: Shutting down and abandoning module OutputLog (444)
+[2019.06.18-08.49.49:561][309]LogModuleManager: Shutting down and abandoning module GammaUI (442)
+[2019.06.18-08.49.49:561][309]LogModuleManager: Shutting down and abandoning module Documentation (440)
+[2019.06.18-08.49.49:561][309]LogModuleManager: Shutting down and abandoning module LiveCoding (438)
+[2019.06.18-08.49.49:561][309]LogModuleManager: Shutting down and abandoning module LevelSequence (436)
+[2019.06.18-08.49.49:561][309]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (434)
+[2019.06.18-08.49.49:561][309]LogModuleManager: Shutting down and abandoning module MovieScene (432)
+[2019.06.18-08.49.49:561][309]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (430)
+[2019.06.18-08.49.49:561][309]LogModuleManager: Shutting down and abandoning module LauncherPlatform (428)
+[2019.06.18-08.49.49:561][309]LogModuleManager: Shutting down and abandoning module AnalyticsET (426)
+[2019.06.18-08.49.49:561][309]LogModuleManager: Shutting down and abandoning module PortalServices (424)
+[2019.06.18-08.49.49:561][309]LogModuleManager: Shutting down and abandoning module PortalRpc (422)
+[2019.06.18-08.49.49:561][309]LogModuleManager: Shutting down and abandoning module MessagingRpc (420)
+[2019.06.18-08.49.49:561][309]LogModuleManager: Shutting down and abandoning module AIModule (418)
+[2019.06.18-08.49.49:561][309]LogModuleManager: Shutting down and abandoning module GameplayDebugger (417)
+[2019.06.18-08.49.49:561][309]LogModuleManager: Shutting down and abandoning module AITestSuite (415)
+[2019.06.18-08.49.49:561][309]LogModuleManager: Shutting down and abandoning module NavigationSystem (413)
+[2019.06.18-08.49.49:561][309]LogModuleManager: Shutting down and abandoning module DesktopPlatform (410)
+[2019.06.18-08.49.49:561][309]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (408)
+[2019.06.18-08.49.49:563][309]LogModuleManager: Shutting down and abandoning module ProfilerService (406)
+[2019.06.18-08.49.49:684][309]LogModuleManager: Shutting down and abandoning module TaskGraph (404)
+[2019.06.18-08.49.49:684][309]LogModuleManager: Shutting down and abandoning module SteamVRController (402)
+[2019.06.18-08.49.49:684][309]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (400)
+[2019.06.18-08.49.49:684][309]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (398)
+[2019.06.18-08.49.49:684][309]LogModuleManager: Shutting down and abandoning module OculusEditor (396)
+[2019.06.18-08.49.49:684][309]LogModuleManager: Shutting down and abandoning module OculusInput (394)
+[2019.06.18-08.49.49:684][309]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (392)
+[2019.06.18-08.49.49:684][309]LogModuleManager: Shutting down and abandoning module EditableMesh (390)
+[2019.06.18-08.49.49:684][309]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (388)
+[2019.06.18-08.49.49:684][309]LogModuleManager: Shutting down and abandoning module CableComponent (386)
+[2019.06.18-08.49.49:684][309]LogModuleManager: Shutting down and abandoning module AudioCapture (384)
+[2019.06.18-08.49.49:684][309]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (382)
+[2019.06.18-08.49.49:684][309]LogModuleManager: Shutting down and abandoning module AndroidPermission (380)
+[2019.06.18-08.49.49:684][309]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (378)
+[2019.06.18-08.49.49:684][309]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (376)
+[2019.06.18-08.49.49:684][309]LogModuleManager: Shutting down and abandoning module MediaCompositing (374)
+[2019.06.18-08.49.49:684][309]LogModuleManager: Shutting down and abandoning module LinearTimecode (372)
+[2019.06.18-08.49.49:684][309]LogModuleManager: Shutting down and abandoning module ImgMedia (370)
+[2019.06.18-08.49.49:684][309]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (368)
+[2019.06.18-08.49.49:685][309]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (366)
+[2019.06.18-08.49.49:685][309]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (364)
+[2019.06.18-08.49.49:685][309]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2019.06.18-08.49.49:685][309]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2019.06.18-08.49.49:685][309]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2019.06.18-08.49.49:685][309]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2019.06.18-08.49.49:685][309]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2019.06.18-08.49.49:685][309]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (352)
+[2019.06.18-08.49.49:685][309]LogModuleManager: Shutting down and abandoning module AppleImageUtils (350)
+[2019.06.18-08.49.49:685][309]LogModuleManager: Shutting down and abandoning module AlembicImporter (348)
+[2019.06.18-08.49.49:685][309]LogModuleManager: Shutting down and abandoning module AlembicLibrary (347)
+[2019.06.18-08.49.49:685][309]LogModuleManager: Shutting down and abandoning module GeometryCache (346)
+[2019.06.18-08.49.49:685][309]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (345)
+[2019.06.18-08.49.49:685][309]LogModuleManager: Shutting down and abandoning module VariantManagerContent (340)
+[2019.06.18-08.49.49:685][309]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (338)
+[2019.06.18-08.49.49:685][309]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (336)
+[2019.06.18-08.49.49:685][309]LogModuleManager: Shutting down and abandoning module PluginBrowser (334)
+[2019.06.18-08.49.49:685][309]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (332)
+[2019.06.18-08.49.49:705][309]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (330)
+[2019.06.18-08.49.49:705][309]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.06.18-08.49.49:705][309]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.06.18-08.49.49:705][309]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.06.18-08.49.49:705][309]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.06.18-08.49.49:705][309]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.06.18-08.49.49:705][309]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.06.18-08.49.49:705][309]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.06.18-08.49.49:714][309]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.06.18-08.49.49:714][309]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.06.18-08.49.49:714][309]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.06.18-08.49.49:714][309]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (308)
+[2019.06.18-08.49.49:714][309]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (306)
+[2019.06.18-08.49.49:714][309]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (304)
+[2019.06.18-08.49.49:714][309]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (302)
+[2019.06.18-08.49.49:714][309]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (300)
+[2019.06.18-08.49.49:714][309]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (298)
+[2019.06.18-08.49.49:714][309]LogModuleManager: Shutting down and abandoning module Paper2DEditor (296)
+[2019.06.18-08.49.49:736][309]LogModuleManager: Shutting down and abandoning module SignificanceManager (294)
+[2019.06.18-08.49.49:736][309]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (292)
+[2019.06.18-08.49.49:736][309]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (290)
+[2019.06.18-08.49.49:736][309]LogModuleManager: Shutting down and abandoning module PhysXVehicles (288)
+[2019.06.18-08.49.49:736][309]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.06.18-08.49.49:736][309]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.06.18-08.49.49:736][309]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.06.18-08.49.49:836][309]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.06.18-08.49.49:936][309]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (278)
+[2019.06.18-08.49.49:936][309]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (276)
+[2019.06.18-08.49.49:936][309]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (274)
+[2019.06.18-08.49.49:936][309]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (272)
+[2019.06.18-08.49.49:936][309]LogModuleManager: Shutting down and abandoning module MagicLeapController (270)
+[2019.06.18-08.49.49:936][309]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.06.18-08.49.49:936][309]LogModuleManager: Shutting down and abandoning module MagicLeapAR (268)
+[2019.06.18-08.49.49:936][309]LogModuleManager: Shutting down and abandoning module AugmentedReality (267)
+[2019.06.18-08.49.49:936][309]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (264)
+[2019.06.18-08.49.49:936][309]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (262)
+[2019.06.18-08.49.49:936][309]LogModuleManager: Shutting down and abandoning module FacialAnimation (260)
+[2019.06.18-08.49.49:936][309]LogModuleManager: Shutting down and abandoning module DataValidation (258)
+[2019.06.18-08.49.49:936][309]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (256)
+[2019.06.18-08.49.49:957][309]LogModuleManager: Shutting down and abandoning module LevelEditor (255)
+[2019.06.18-08.49.49:958][309]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (254)
+[2019.06.18-08.49.49:958][309]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (252)
+[2019.06.18-08.49.49:958][309]LogModuleManager: Shutting down and abandoning module MainFrame (250)
+[2019.06.18-08.49.49:958][309]LogModuleManager: Shutting down and abandoning module HotReload (249)
+[2019.06.18-08.49.49:958][309]LogModuleManager: Shutting down and abandoning module ContentBrowser (245)
+[2019.06.18-08.49.49:959][309]LogModuleManager: Shutting down and abandoning module TreeMap (243)
+[2019.06.18-08.49.49:959][309]LogModuleManager: Shutting down and abandoning module AnimationSharing (240)
+[2019.06.18-08.49.49:959][309]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2019.06.18-08.49.49:959][309]LogModuleManager: Shutting down and abandoning module AISupportModule (236)
+[2019.06.18-08.49.49:959][309]LogModuleManager: Shutting down and abandoning module Paper2D (234)
+[2019.06.18-08.49.49:959][309]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (232)
+[2019.06.18-08.49.49:959][309]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (230)
+[2019.06.18-08.49.49:959][309]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2019.06.18-08.49.49:959][309]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2019.06.18-08.49.49:959][309]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2019.06.18-08.49.49:959][309]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2019.06.18-08.49.49:959][309]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2019.06.18-08.49.49:959][309]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2019.06.18-08.49.49:959][309]LogModuleManager: Shutting down and abandoning module VREditor (216)
+[2019.06.18-08.49.49:959][309]LogModuleManager: Shutting down and abandoning module StringTableEditor (214)
+[2019.06.18-08.49.49:959][309]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (212)
+[2019.06.18-08.49.49:960][309]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (210)
+[2019.06.18-08.49.49:978][309]LogModuleManager: Shutting down and abandoning module FunctionalTesting (208)
+[2019.06.18-08.49.49:978][309]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (206)
+[2019.06.18-08.49.49:978][309]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (205)
+[2019.06.18-08.49.49:978][309]LogModuleManager: Shutting down and abandoning module UMG (202)
+[2019.06.18-08.49.49:987][309]LogModuleManager: Shutting down and abandoning module UMGEditor (201)
+[2019.06.18-08.49.49:987][309]LogModuleManager: Shutting down and abandoning module Sequencer (200)
+[2019.06.18-08.49.49:987][309]LogModuleManager: Shutting down and abandoning module MessageLog (197)
+[2019.06.18-08.49.49:987][309]LogModuleManager: Shutting down and abandoning module SlateReflector (192)
+[2019.06.18-08.49.50:010][309]LogModuleManager: Shutting down and abandoning module Slate (190)
+[2019.06.18-08.49.50:010][309]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2019.06.18-08.49.50:011][309]LogModuleManager: Shutting down and abandoning module UnrealEd (186)
+[2019.06.18-08.49.50:011][309]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2019.06.18-08.49.50:011][309]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2019.06.18-08.49.50:011][309]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2019.06.18-08.49.50:011][309]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2019.06.18-08.49.50:011][309]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2019.06.18-08.49.50:011][309]LogModuleManager: Shutting down and abandoning module Core (174)
+[2019.06.18-08.49.50:011][309]LogModuleManager: Shutting down and abandoning module KismetCompiler (172)
+[2019.06.18-08.49.50:011][309]LogModuleManager: Shutting down and abandoning module MeshUtilities (170)
+[2019.06.18-08.49.50:012][309]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (169)
+[2019.06.18-08.49.50:012][309]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (168)
+[2019.06.18-08.49.50:012][309]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (167)
+[2019.06.18-08.49.50:012][309]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (165)
+[2019.06.18-08.49.50:031][309]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (163)
+[2019.06.18-08.49.50:031][309]LogModuleManager: Shutting down and abandoning module MaterialBaking (159)
+[2019.06.18-08.49.50:031][309]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2019.06.18-08.49.50:032][309]LogDerivedDataCache: Shutdown
+[2019.06.18-08.49.50:032][309]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2019.06.18-08.49.50:032][309]LogXGEController: Cleaning working directory: C:/Users/Usuario/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.06.18-08.49.50:032][309]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2019.06.18-08.49.50:032][309]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2019.06.18-08.49.50:032][309]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2019.06.18-08.49.50:032][309]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2019.06.18-08.49.50:032][309]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2019.06.18-08.49.50:032][309]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2019.06.18-08.49.50:032][309]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2019.06.18-08.49.50:032][309]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2019.06.18-08.49.50:032][309]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2019.06.18-08.49.50:032][309]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2019.06.18-08.49.50:033][309]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2019.06.18-08.49.50:033][309]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2019.06.18-08.49.50:033][309]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2019.06.18-08.49.50:033][309]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2019.06.18-08.49.50:033][309]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2019.06.18-08.49.50:033][309]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2019.06.18-08.49.50:033][309]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2019.06.18-08.49.50:033][309]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2019.06.18-08.49.50:033][309]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2019.06.18-08.49.50:033][309]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2019.06.18-08.49.50:033][309]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2019.06.18-08.49.50:033][309]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2019.06.18-08.49.50:034][309]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2019.06.18-08.49.50:034][309]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2019.06.18-08.49.50:035][309]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2019.06.18-08.49.50:035][309]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (101)
+[2019.06.18-08.49.50:041][309]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (99)
+[2019.06.18-08.49.50:041][309]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (97)
+[2019.06.18-08.49.50:041][309]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (95)
+[2019.06.18-08.49.50:041][309]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (93)
+[2019.06.18-08.49.50:041][309]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (91)
+[2019.06.18-08.49.50:041][309]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (89)
+[2019.06.18-08.49.50:041][309]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (87)
+[2019.06.18-08.49.50:041][309]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (85)
+[2019.06.18-08.49.50:041][309]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (83)
+[2019.06.18-08.49.50:041][309]LogModuleManager: Shutting down and abandoning module InputCore (80)
+[2019.06.18-08.49.50:041][309]LogModuleManager: Shutting down and abandoning module Settings (78)
+[2019.06.18-08.49.50:041][309]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (76)
+[2019.06.18-08.49.50:041][309]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2019.06.18-08.49.50:041][309]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2019.06.18-08.49.50:041][309]LogHMD: Freeing OpenVRDLLHandle.
+[2019.06.18-08.49.50:041][309]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2019.06.18-08.49.50:041][309]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2019.06.18-08.49.50:041][309]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2019.06.18-08.49.50:041][309]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2019.06.18-08.49.50:041][309]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2019.06.18-08.49.50:042][309]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2019.06.18-08.49.50:052][309]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2019.06.18-08.49.50:086][309]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2019.06.18-08.49.50:086][309]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.06.18-08.49.50:086][309]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2FEC242F-4EAE-5D24-4F37-EF86DCFBD08E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.1-6063286%2B%2B%2BUE4%2BRelease-4.22&UserID=ffccb74c4d5d6b80711c1ba3e8beea39%7C515bd2677bef470e89637780ff333106%7C5f73ccf3-b65c-43de-b49e-d0c9c20d3c76&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.06.18-08.49.50:094][309]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2019.06.18-08.49.50:095][309]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2019.06.18-08.49.50:096][309]LogModuleManager: Shutting down and abandoning module Media (45)
+[2019.06.18-08.49.50:101][309]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2019.06.18-08.49.50:101][309]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2019.06.18-08.49.50:101][309]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.06.18-08.49.50:101][309]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.06.18-08.49.50:101][309]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.06.18-08.49.50:101][309]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.06.18-08.49.50:101][309]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.06.18-08.49.50:102][309]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.06.18-08.49.50:102][309]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.06.18-08.49.50:139][309]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.06.18-08.49.50:145][309]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.06.18-08.49.50:145][309]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.06.18-08.49.50:145][309]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.06.18-08.49.50:145][309]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.06.18-08.49.50:145][309]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.06.18-08.49.50:145][309]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.06.18-08.49.50:145][309]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.06.18-08.49.50:145][309]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.06.18-08.49.50:145][309]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.06.18-08.49.50:145][309]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.06.18-08.49.50:145][309]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.06.18-08.49.50:151][309]LogExit: Exiting.
+[2019.06.18-08.49.50:188][309]Log file closed, 06/18/19 01:49:50
